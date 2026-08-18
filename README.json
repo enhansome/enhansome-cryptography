@@ -63,7 +63,7 @@
             "last_commit": "2026-08-12T23:58:22Z",
             "owner": "certbot",
             "repo": "certbot",
-            "stars": 33201
+            "stars": 33202
           }
         },
         {
@@ -74,10 +74,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T09:14:47Z",
+            "last_commit": "2026-08-17T17:56:38Z",
             "owner": "getsops",
             "repo": "sops",
-            "stars": 22840
+            "stars": 22848
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2026-08-01T16:25:31Z",
             "owner": "cryptomator",
             "repo": "cryptomator",
-            "stars": 15900
+            "stars": 15908
           }
         },
         {
@@ -174,10 +174,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-17T14:03:16Z",
+            "last_commit": "2026-08-18T12:46:16Z",
             "owner": "openssl",
             "repo": "openssl",
-            "stars": 30641
+            "stars": 30647
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2026-07-27T13:42:29Z",
             "owner": "Cyan4973",
             "repo": "xxHash",
-            "stars": 11201
+            "stars": 11205
           }
         },
         {
@@ -230,10 +230,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T02:11:49Z",
+            "last_commit": "2026-08-18T14:05:23Z",
             "owner": "wolfSSL",
             "repo": "wolfssl",
-            "stars": 2909
+            "stars": 2910
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-08-05T18:42:39Z",
             "owner": "weidai11",
             "repo": "cryptopp",
-            "stars": 5490
+            "stars": 5491
           }
         },
         {
@@ -390,10 +390,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-17T00:08:36Z",
+            "last_commit": "2026-08-18T01:24:39Z",
             "owner": "aws",
             "repo": "s2n-tls",
-            "stars": 4750
+            "stars": 4752
           }
         },
         {
@@ -622,7 +622,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-03-14T14:43:40Z",
+            "last_commit": "2026-08-18T09:40:35Z",
             "owner": "danielberkompas",
             "repo": "cloak",
             "stars": 624
@@ -757,7 +757,7 @@
             "last_commit": "2026-06-22T00:59:01Z",
             "owner": "dedis",
             "repo": "kyber",
-            "stars": 700
+            "stars": 701
           }
         },
         {
@@ -802,7 +802,7 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-14T21:12:33Z",
+            "last_commit": "2026-08-17T21:34:50Z",
             "owner": "GaloisInc",
             "repo": "cryptol",
             "stars": 1217
@@ -853,7 +853,7 @@
             "last_commit": "2024-08-09T08:16:59Z",
             "owner": "brix",
             "repo": "crypto-js",
-            "stars": 16399
+            "stars": 16401
           }
         },
         {
@@ -867,7 +867,7 @@
             "last_commit": "2026-04-14T10:58:59Z",
             "owner": "kelektiv",
             "repo": "node.bcrypt.js",
-            "stars": 7804
+            "stars": 7802
           }
         },
         {
@@ -906,7 +906,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T13:14:44Z",
+            "last_commit": "2026-08-17T22:53:49Z",
             "owner": "openpgpjs",
             "repo": "openpgpjs",
             "stars": 5966
@@ -923,7 +923,7 @@
             "last_commit": "2026-03-25T20:58:31Z",
             "owner": "digitalbazaar",
             "repo": "forge",
-            "stars": 5325
+            "stars": 5327
           }
         },
         {
@@ -1200,7 +1200,7 @@
                 "last_commit": "2026-08-17T14:11:57Z",
                 "owner": "paulmillr",
                 "repo": "noble-curves",
-                "stars": 936
+                "stars": 937
               }
             },
             {
@@ -1214,7 +1214,7 @@
                 "last_commit": "2026-08-17T11:17:39Z",
                 "owner": "paulmillr",
                 "repo": "noble-hashes",
-                "stars": 899
+                "stars": 900
               }
             },
             {
@@ -1228,7 +1228,7 @@
                 "last_commit": "2026-08-14T06:56:21Z",
                 "owner": "paulmillr",
                 "repo": "noble-ciphers",
-                "stars": 411
+                "stars": 412
               }
             },
             {
@@ -1242,7 +1242,7 @@
                 "last_commit": "2026-08-15T04:41:33Z",
                 "owner": "paulmillr",
                 "repo": "noble-post-quantum",
-                "stars": 343
+                "stars": 347
               }
             }
           ]
@@ -1261,10 +1261,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T13:24:15Z",
+            "last_commit": "2026-08-18T13:59:59Z",
             "owner": "keycloak",
             "repo": "keycloak",
-            "stars": 36226
+            "stars": 36248
           }
         },
         {
@@ -1275,7 +1275,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T07:00:49Z",
+            "last_commit": "2026-08-18T05:32:07Z",
             "owner": "pac4j",
             "repo": "pac4j",
             "stars": 2519
@@ -1331,7 +1331,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T13:28:33Z",
+            "last_commit": "2026-08-18T13:31:50Z",
             "owner": "tink-crypto",
             "repo": "tink-java",
             "stars": 299
@@ -1636,7 +1636,7 @@
             "last_commit": "2026-07-18T07:43:51Z",
             "owner": "Legrandin",
             "repo": "pycryptodome",
-            "stars": 3251
+            "stars": 3250
           }
         },
         {
@@ -1689,7 +1689,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-07-30T13:10:49Z",
+            "last_commit": "2026-08-18T11:08:50Z",
             "owner": "pyca",
             "repo": "pynacl",
             "stars": 1204
@@ -1841,10 +1841,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T07:42:41Z",
+            "last_commit": "2026-08-18T14:18:15Z",
             "owner": "rustls",
             "repo": "rustls",
-            "stars": 7570
+            "stars": 7573
           }
         },
         {
@@ -1858,7 +1858,7 @@
             "last_commit": "2026-08-05T22:37:19Z",
             "owner": "BLAKE3-team",
             "repo": "BLAKE3",
-            "stars": 6375
+            "stars": 6376
           }
         },
         {
@@ -1900,7 +1900,7 @@
             "last_commit": "2026-08-16T23:23:29Z",
             "owner": "str4d",
             "repo": "rage",
-            "stars": 3618
+            "stars": 3619
           }
         },
         {
@@ -1914,7 +1914,7 @@
             "last_commit": "2026-08-11T06:43:09Z",
             "owner": "RustCrypto",
             "repo": "hashes",
-            "stars": 2254
+            "stars": 2255
           }
         },
         {
@@ -1928,7 +1928,7 @@
             "last_commit": "2026-08-11T14:51:59Z",
             "owner": "rust-openssl",
             "repo": "rust-openssl",
-            "stars": 1637
+            "stars": 1638
           }
         },
         {
@@ -2012,7 +2012,7 @@
             "last_commit": "2026-08-10T16:22:53Z",
             "owner": "RustCrypto",
             "repo": "elliptic-curves",
-            "stars": 871
+            "stars": 872
           }
         },
         {
@@ -2023,7 +2023,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T16:13:23Z",
+            "last_commit": "2026-08-18T11:15:34Z",
             "owner": "orion-rs",
             "repo": "orion",
             "stars": 721
@@ -2121,7 +2121,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-11T23:03:29Z",
+            "last_commit": "2026-08-17T20:43:31Z",
             "owner": "RustCrypto",
             "repo": "formats",
             "stars": 332
@@ -2296,7 +2296,7 @@
             "last_commit": "2026-07-13T22:37:37Z",
             "owner": "krzyzanowskim",
             "repo": "CryptoSwift",
-            "stars": 10564
+            "stars": 10565
           }
         },
         {
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:13:53.041Z",
+    "last_updated": "2026-08-18T14:18:17.097Z",
     "original_repository": "sobolevn/awesome-cryptography",
     "original_repository_sha": "c9f2dfce9657af1951e7fcfe5038dfb15950558a",
     "enhanced_repository": "enhansome/enhansome-cryptography",
