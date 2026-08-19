@@ -60,7 +60,7 @@
                 "last_commit": "2026-08-18T20:29:04Z",
                 "owner": "certbot",
                 "repo": "certbot",
-                "stars": 33204
+                "stars": 33205
               }
             },
             {
@@ -75,7 +75,7 @@
                 "last_commit": "2026-08-17T17:56:38Z",
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 22857
+                "stars": 22859
               }
             },
             {
@@ -175,7 +175,7 @@
                 "archived": false,
                 "id": 7634677,
                 "language": "C",
-                "last_commit": "2026-08-19T11:04:12Z",
+                "last_commit": "2026-08-19T14:14:22Z",
                 "owner": "openssl",
                 "repo": "openssl",
                 "stars": 30657
@@ -193,7 +193,7 @@
                 "last_commit": "2026-08-13T05:30:53Z",
                 "owner": "jedisct1",
                 "repo": "libsodium",
-                "stars": 13902
+                "stars": 13903
               }
             },
             {
@@ -208,7 +208,7 @@
                 "last_commit": "2026-07-27T13:42:29Z",
                 "owner": "Cyan4973",
                 "repo": "xxHash",
-                "stars": 11208
+                "stars": 11209
               }
             },
             {
@@ -235,7 +235,7 @@
                 "archived": false,
                 "id": 28928522,
                 "language": "C",
-                "last_commit": "2026-08-18T23:02:20Z",
+                "last_commit": "2026-08-19T12:36:09Z",
                 "owner": "wolfSSL",
                 "repo": "wolfssl",
                 "stars": 2911
@@ -283,7 +283,7 @@
                 "last_commit": "2026-08-08T15:05:13Z",
                 "owner": "libtom",
                 "repo": "libtomcrypt",
-                "stars": 1785
+                "stars": 1786
               }
             },
             {
@@ -1332,10 +1332,10 @@
                 "archived": false,
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-19T11:37:16Z",
+                "last_commit": "2026-08-19T14:13:16Z",
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36274
+                "stars": 36276
               }
             },
             {
@@ -1407,7 +1407,7 @@
                 "archived": false,
                 "id": 494471755,
                 "language": "Java",
-                "last_commit": "2026-08-19T11:43:59Z",
+                "last_commit": "2026-08-19T13:40:26Z",
                 "owner": "tink-crypto",
                 "repo": "tink-java",
                 "stars": 299
@@ -1976,7 +1976,7 @@
                 "last_commit": "2026-08-05T22:37:19Z",
                 "owner": "BLAKE3-team",
                 "repo": "BLAKE3",
-                "stars": 6377
+                "stars": 6378
               }
             },
             {
@@ -2535,7 +2535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:22:20.874Z",
+    "last_updated": "2026-08-19T14:19:36.741Z",
     "original_repository": "sobolevn/awesome-cryptography",
     "original_repository_id": 59573221,
     "original_repository_sha": "c9f2dfce9657af1951e7fcfe5038dfb15950558a",
