@@ -1,2402 +1,2543 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Theory"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Algorithms"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Awesome crypto-papers",
-          "description": "A curated list of cryptography papers, articles, tutorials and howtos.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-10-17T18:13:08Z",
-            "owner": "pFarb",
-            "repo": "awesome-crypto-papers",
-            "stars": 2089
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome HE",
-          "description": "A curated list of homomorphic encryption libraries, software and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-03-25T11:22:47Z",
-            "owner": "jonaschn",
-            "repo": "awesome-he",
-            "stars": 1257
-          }
-        }
-      ],
-      "title": "Other lists"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "certbot",
-          "description": "Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T23:58:22Z",
-            "owner": "certbot",
-            "repo": "certbot",
-            "stars": 33202
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sops",
-          "description": "sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T17:56:38Z",
-            "owner": "getsops",
-            "repo": "sops",
-            "stars": 22848
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cryptomator",
-          "description": "Multi-platform transparent client-side encryption of your files in the cloud.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-01T16:25:31Z",
-            "owner": "cryptomator",
-            "repo": "cryptomator",
-            "stars": 15908
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "blackbox",
-          "description": "safely store secrets in Git/Mercurial/Subversion.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2025-11-05T15:44:20Z",
-            "owner": "StackExchange",
-            "repo": "blackbox",
-            "stars": 6771
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nipe",
-          "description": "Nipe is a script to make Tor Network your default gateway.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2026-06-27T10:01:13Z",
-            "owner": "htrgouvea",
-            "repo": "nipe",
-            "stars": 2385
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ironssh",
-          "description": "End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2022-05-05T20:57:43Z",
-            "owner": "IronCoreLabs",
-            "repo": "ironssh",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Coherence",
-          "description": "Cryptographic server for modern web apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-05-30T01:19:07Z",
-            "owner": "liesware",
-            "repo": "coherence",
-            "stars": 38
-          }
-        }
-      ],
-      "title": "Standalone"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Plugins"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Frameworks and Libs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OpenSSL",
-          "description": "TLS/SSL and crypto library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T12:46:16Z",
-            "owner": "openssl",
-            "repo": "openssl",
-            "stars": 30647
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libsodium",
-          "description": "Modern and easy-to-use crypto library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-13T05:30:53Z",
-            "owner": "jedisct1",
-            "repo": "libsodium",
-            "stars": 13899
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xxHash",
-          "description": "Extremely fast hash algorithm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-27T13:42:29Z",
-            "owner": "Cyan4973",
-            "repo": "xxHash",
-            "stars": 11205
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tiny-AES128-C",
-          "description": "Small portable AES128 in C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-10-04T09:45:23Z",
-            "owner": "kokke",
-            "repo": "tiny-AES-c",
-            "stars": 4997
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wolfSSL",
-          "description": "Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T14:05:23Z",
-            "owner": "wolfSSL",
-            "repo": "wolfssl",
-            "stars": 2910
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "crypto-algorithms",
-          "description": "Basic implementations of standard cryptography algorithms, like AES and SHA-1.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-12-28T06:38:19Z",
-            "owner": "B-Con",
-            "repo": "crypto-algorithms",
-            "stars": 2035
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "themis",
-          "description": "High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-24T14:01:56Z",
-            "owner": "cossacklabs",
-            "repo": "themis",
-            "stars": 1972
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libtomcrypt",
-          "description": "Fairly comprehensive, modular and portable cryptographic toolkit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-08T15:05:13Z",
-            "owner": "libtom",
-            "repo": "libtomcrypt",
-            "stars": 1785
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RHash",
-          "description": "Great utility for computing hash sums.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-11T08:00:28Z",
-            "owner": "rhash",
-            "repo": "RHash",
-            "stars": 726
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "XKCP",
-          "description": "is a repository that gathers different free and open-source implementations of the cryptographic schemes defined by the Keccak team.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-30T07:11:06Z",
-            "owner": "XKCP",
-            "repo": "XKCP",
-            "stars": 659
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libkcapi",
-          "description": "Linux Kernel Crypto API User Space Interface Library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-08T15:59:31Z",
-            "owner": "smuellerDD",
-            "repo": "libkcapi",
-            "stars": 197
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nettle",
-          "description": "is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel space.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-13T19:36:13Z",
-            "owner": "gnutls",
-            "repo": "nettle",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libVES.c",
-          "description": "End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-05T01:21:45Z",
-            "owner": "vesvault",
-            "repo": "libVES.c",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "milagro-crypto-c",
-          "description": "Small, self-contained and fast open source crypto library. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3 and Pairing-Based Cryptography.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2024-03-21T14:22:03Z",
-            "owner": "apache",
-            "repo": "incubator-milagro-crypto-c",
-            "stars": 39
-          }
-        }
-      ],
-      "title": "C"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cryptopp",
-          "description": "Crypto++ Library is a free C++ class library of cryptographic schemes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-05T18:42:39Z",
-            "owner": "weidai11",
-            "repo": "cryptopp",
-            "stars": 5491
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "s2n",
-          "description": "Implementation of the TLS/SSL protocols.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T01:24:39Z",
-            "owner": "aws",
-            "repo": "s2n-tls",
-            "stars": 4752
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "=nil; Crypto3",
-          "description": "Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2024-10-14T07:50:00Z",
-            "owner": "NilFoundation",
-            "repo": "crypto3",
-            "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HElib",
-          "description": "Software library that implements homomorphic encryption (HE).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-10-17T20:57:40Z",
-            "owner": "shaih",
-            "repo": "HElib",
-            "stars": 48
-          }
-        }
-      ],
-      "title": "C++"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SecurityDriven.Inferno",
-          "description": ".NET crypto done right.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-05T18:31:51Z",
-            "owner": "sdrapkin",
-            "repo": "SecurityDriven.Inferno",
-            "stars": 585
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PCLCrypto",
-          "description": "Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2024-04-01T14:16:36Z",
-            "owner": "AArnott",
-            "repo": "PCLCrypto",
-            "stars": 224
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StreamCryptor",
-          "description": "Stream encryption & decryption with libsodium and protobuf.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2017-03-10T18:18:43Z",
-            "owner": "bitbeans",
-            "repo": "StreamCryptor",
-            "stars": 132
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libsodium-net",
-          "description": "Secure cryptographic library, port of libsodium for .NET.",
-          "children": []
-        }
-      ],
-      "title": "C-sharp"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pandect",
-          "description": "Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Clojure",
-            "last_commit": "2024-09-17T12:23:44Z",
-            "owner": "xsc",
-            "repo": "pandect",
-            "stars": 220
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "secrets.clj",
-          "description": "A Clojure library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2024-04-05T09:00:35Z",
-            "owner": "lk-geimfari",
-            "repo": "secrets.clj",
-            "stars": 98
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clj-crypto",
-          "description": "Wrapper for Bouncy Castle.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2016-11-10T17:30:56Z",
-            "owner": "macourtney",
-            "repo": "clj-crypto",
-            "stars": 30
-          }
-        }
-      ],
-      "title": "Clojure"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "trivial-ssh",
-          "description": "SSH client library for Common Lisp (Built on libssh2).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Common Lisp",
-            "last_commit": "2021-04-03T03:15:23Z",
-            "owner": "eudoxia0",
-            "repo": "trivial-ssh",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "crypto-shortcuts",
-          "description": "Collection of common cryptography functions.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Common Lisp",
-            "last_commit": "2026-05-18T10:45:24Z",
-            "owner": "Shinmera",
-            "repo": "crypto-shortcuts",
-            "stars": 25
-          }
-        }
-      ],
-      "title": "Common Lisp"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SynCrypto",
-          "description": "Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Pascal",
-            "last_commit": "2026-06-05T17:50:49Z",
-            "owner": "synopse",
-            "repo": "mORMot",
-            "stars": 823
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DelphiEncryptionCompendium",
-          "description": "Cryptographic library for Delphi.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-07-26T18:43:49Z",
-            "owner": "MHumm",
-            "repo": "DelphiEncryptionCompendium",
-            "stars": 286
-          }
-        }
-      ],
-      "title": "Delphi"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "comeonin",
-          "description": "Password authorization (bcrypt) library for Elixir.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2025-02-03T22:34:40Z",
-            "owner": "riverrun",
-            "repo": "comeonin",
-            "stars": 1317
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cloak",
-          "description": "Cloak makes it easy to use encryption with Ecto.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-18T09:40:35Z",
-            "owner": "danielberkompas",
-            "repo": "cloak",
-            "stars": 624
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pot",
-          "description": "Erlang library for generating one time passwords compatible with Google Authenticator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Erlang",
-            "last_commit": "2023-12-08T04:57:57Z",
-            "owner": "yuce",
-            "repo": "pot",
-            "stars": 242
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ex_crypto",
-          "description": "Elixir wrapper for Erlang and modules. Provides sensible defaults for many crypto functions to make them easier to use.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2024-06-26T10:13:12Z",
-            "owner": "ntrepid8",
-            "repo": "ex_crypto",
-            "stars": 161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cipher",
-          "description": "Elixir crypto library to encrypt/decrypt arbitrary binaries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2021-06-04T14:04:59Z",
-            "owner": "rubencaro",
-            "repo": "cipher",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elixir-rsa",
-          "description": "cryptography wrapper for Elixir.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2019-11-21T16:01:27Z",
-            "owner": "trapped",
-            "repo": "elixir-rsa",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "exgpg",
-          "description": "Use gpg from Elixir.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2018-08-29T22:26:06Z",
-            "owner": "rozap",
-            "repo": "exgpg",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "siphash-elixir",
-          "description": "Elixir implementation of the SipHash hash family.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2021-09-07T18:29:25Z",
-            "owner": "whitfin",
-            "repo": "siphash-elixir",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elixir_tea",
-          "description": "TEA implementation in Elixir.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2015-05-06T11:59:57Z",
-            "owner": "keichan34",
-            "repo": "elixir_tea",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Elixir"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "goThemis",
-          "description": "Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-24T14:01:56Z",
-            "owner": "cossacklabs",
-            "repo": "themis",
-            "stars": 1972
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kyber",
-          "description": "Advanced crypto library for the Go language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-22T00:59:01Z",
-            "owner": "dedis",
-            "repo": "kyber",
-            "stars": 701
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gocrypto",
-          "description": "Example source code for the Practical Crypto with Go book.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2019-12-05T06:29:24Z",
-            "owner": "kisom",
-            "repo": "gocrypto",
-            "stars": 157
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dkeyczar",
-          "description": "Port of Google's Keyczar cryptography library to Go.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2020-05-15T20:22:28Z",
-            "owner": "dgryski",
-            "repo": "dkeyczar",
-            "stars": 112
-          }
-        }
-      ],
-      "title": "Go"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cryptol",
-          "description": "The Language of Cryptography.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2026-08-17T21:34:50Z",
-            "owner": "GaloisInc",
-            "repo": "cryptol",
-            "stars": 1217
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HsOpenSSL",
-          "description": "OpenSSL binding for Haskel.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Haskell",
-            "last_commit": "2020-01-17T16:42:40Z",
-            "owner": "depressed-pho",
-            "repo": "HsOpenSSL",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scrypt",
-          "description": "Haskell bindings to Colin Percival's scrypt implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-12-12T04:03:44Z",
-            "owner": "informatikr",
-            "repo": "scrypt",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "Haskell"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "crypto-js",
-          "description": "JavaScript library of crypto standards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-08-09T08:16:59Z",
-            "owner": "brix",
-            "repo": "crypto-js",
-            "stars": 16401
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "node.bcrypt.js",
-          "description": "bcrypt for Node.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-04-14T10:58:59Z",
-            "owner": "kelektiv",
-            "repo": "node.bcrypt.js",
-            "stars": 7802
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sjcl",
-          "description": "Stanford JavaScript Crypto Library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-18T21:29:06Z",
-            "owner": "bitwiseshiftleft",
-            "repo": "sjcl",
-            "stars": 7204
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jsencrypt",
-          "description": "JavaScript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-08T09:02:21Z",
-            "owner": "travist",
-            "repo": "jsencrypt",
-            "stars": 6804
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenPGP.js",
-          "description": "OpenPGP implementation for JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T22:53:49Z",
-            "owner": "openpgpjs",
-            "repo": "openpgpjs",
-            "stars": 5966
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "forge",
-          "description": "Native implementation of TLS in JavaScript and tools to write crypto-based and network-heavy webapps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-25T20:58:31Z",
-            "owner": "digitalbazaar",
-            "repo": "forge",
-            "stars": 5327
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "closure-library",
-          "description": "Google's common JavaScript library.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2024-08-01T20:51:28Z",
-            "owner": "google",
-            "repo": "closure-library",
-            "stars": 4895
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jsrsasign",
-          "description": "The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-14T17:04:51Z",
-            "owner": "kjur",
-            "repo": "jsrsasign",
-            "stars": 3376
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jsThemis",
-          "description": "JavaScript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-24T14:01:56Z",
-            "owner": "cossacklabs",
-            "repo": "themis",
-            "stars": 1972
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TweetNaCl.js",
-          "description": "A port of TweetNaCl / NaCl for JavaScript for modern browsers and Node.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-08-15T11:43:43Z",
-            "owner": "dchest",
-            "repo": "tweetnacl-js",
-            "stars": 1921
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cryptico",
-          "description": "Easy-to-use encryption system utilizing RSA and AES for JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-01-18T16:57:56Z",
-            "owner": "wwwtyro",
-            "repo": "cryptico",
-            "stars": 1177
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libsodium.js",
-          "description": "libsodium compiled to pure JavaScript, with convenient wrappers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-07-14T18:41:07Z",
-            "owner": "jedisct1",
-            "repo": "libsodium.js",
-            "stars": 1151
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JShashes",
-          "description": "Fast and dependency-free cryptographic hashing library for Node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-05-30T10:47:07Z",
-            "owner": "h2non",
-            "repo": "jshashes",
-            "stars": 724
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "asmCrypto",
-          "description": "JavaScript implementation of popular cryptographic utilities with performance in mind.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-02-07T20:56:35Z",
-            "owner": "asmcrypto",
-            "repo": "asmcrypto.js",
-            "stars": 668
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "URSA",
-          "description": "RSA public/private key OpenSSL bindings for Node.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-04-29T18:44:02Z",
-            "owner": "JoshKaufman",
-            "repo": "ursa",
-            "stars": 613
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "js-nacl",
-          "description": "Pure-JavaScript High-level API to Emscripten-compiled libsodium routines.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2022-03-16T12:11:40Z",
-            "owner": "tonyg",
-            "repo": "js-nacl",
-            "stars": 493
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cryptojs",
-          "description": "Provide standard and secure cryptographic algorithms for Node.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2012-07-21T00:36:41Z",
-            "owner": "gwjjeff",
-            "repo": "cryptojs",
-            "stars": 326
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "javascript-crypto-library",
-          "description": "JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-01-11T09:50:12Z",
-            "owner": "clipperz",
-            "repo": "javascript-crypto-library",
-            "stars": 284
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rusha",
-          "description": "High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-06-09T04:34:03Z",
-            "owner": "srijs",
-            "repo": "rusha",
-            "stars": 277
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PolyCrypt",
-          "description": "Pure JS implementation of the WebCrypto API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2015-04-24T16:45:14Z",
-            "owner": "polycrypt",
-            "repo": "polycrypt",
-            "stars": 266
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cifre",
-          "description": "Fast crypto toolkit for modern client-side JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2013-07-30T21:14:30Z",
-            "owner": "hookflash",
-            "repo": "obsolete.cifre",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "micro-rsa-dsa-dh",
-          "description": "Minimal implementation of older cryptography algorithms: RSA, DSA, DH, ElGamal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T16:21:47Z",
-            "owner": "paulmillr",
-            "repo": "micro-rsa-dsa-dh",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "milagro-crypto-js",
-          "description": "MCJS is a standards compliant JavaScript cryptographic library with no external dependencies except for the random seed source. Compatible for Node.js and browser. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3, Pairing-Based Cryptography and New Hope.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2024-03-21T14:26:53Z",
-            "owner": "apache",
-            "repo": "incubator-milagro-crypto-js",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libVES.js",
-          "description": "End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-09T20:42:09Z",
-            "owner": "vesvault",
-            "repo": "libVES",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bcrypt-Node.js",
-          "description": "Native implementation of bcrypt for Node.js.",
-          "children": []
-        },
-        {
-          "node_type": "group",
-          "title": "noble - high-security, easily auditable set of contained cryptographic libraries and tools. Zero dependencies each.",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "noble-curves",
-              "description": "elliptic curve cryptography, including Weierstrass, Edwards, Montgomery curves, pairings, hash-to-curve, poseidon hash, schnorr, secp256k1, ed25519, ed448, p521, bn254, bls12-381 and others. Also 4kb noble-secp256k1, noble-ed25519",
+              "title": "Awesome crypto-papers",
+              "description": "A curated list of cryptography papers, articles, tutorials and howtos.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-17T14:11:57Z",
-                "owner": "paulmillr",
-                "repo": "noble-curves",
-                "stars": 937
+                "id": 82925053,
+                "language": null,
+                "last_commit": "2024-10-17T18:13:08Z",
+                "owner": "pFarb",
+                "repo": "awesome-crypto-papers",
+                "stars": 2089
               }
             },
             {
               "node_type": "item",
-              "title": "noble-hashes",
-              "description": "SHA2, SHA3, RIPEMD, BLAKE2/3, HMAC, HKDF, PBKDF2, Scrypt & Argon2id",
+              "title": "Awesome HE",
+              "description": "A curated list of homomorphic encryption libraries, software and resources.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-17T11:17:39Z",
-                "owner": "paulmillr",
-                "repo": "noble-hashes",
-                "stars": 900
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "noble-ciphers",
-              "description": "cryptographic ciphers, including AES-SIV, Salsa20, ChaCha, Poly1305 and FF1",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-14T06:56:21Z",
-                "owner": "paulmillr",
-                "repo": "noble-ciphers",
-                "stars": 412
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "noble-post-quantum",
-              "description": "ML-KEM, ML-DSA, SLH-DSA (CRYSTALS-Kyber, CRYSTALS-Dilithium, Sphincs+) and hybrids",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-15T04:41:33Z",
-                "owner": "paulmillr",
-                "repo": "noble-post-quantum",
-                "stars": 347
+                "id": 122284251,
+                "language": null,
+                "last_commit": "2025-03-25T11:22:47Z",
+                "owner": "jonaschn",
+                "repo": "awesome-he",
+                "stars": 1257
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other lists"
         }
       ],
-      "title": "JavaScript"
+      "title": "Theory"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Keycloak",
-          "description": "Open Source Identity and Access Management For Modern Applications and Services.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T13:59:59Z",
-            "owner": "keycloak",
-            "repo": "keycloak",
-            "stars": 36248
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pac4j",
-          "description": "Security engine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T05:32:07Z",
-            "owner": "pac4j",
-            "repo": "pac4j",
-            "stars": 2519
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Java Themis",
-          "description": "Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-24T14:01:56Z",
-            "owner": "cossacklabs",
-            "repo": "themis",
-            "stars": 1972
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scrypt",
-          "description": "Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2020-10-13T09:57:06Z",
-            "owner": "wg",
-            "repo": "scrypt",
-            "stars": 434
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Password4j",
-          "description": "A Java user-friendly cryptographic library for hashing and checking passwords with different Key derivation functions (KDFs) and Cryptographic hash functions (CHFs).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-04-16T13:40:56Z",
-            "owner": "Password4j",
-            "repo": "password4j",
-            "stars": 430
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Google Tink",
-          "description": "A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T13:31:50Z",
-            "owner": "tink-crypto",
-            "repo": "tink-java",
-            "stars": 299
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "securitybuilder",
-          "description": "Fluent Builder API for JCA/JSSE objects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2021-06-26T01:12:37Z",
-            "owner": "tersesystems",
-            "repo": "securitybuilder",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GDH",
-          "description": "Generalized Diffie-Hellman key exchange Java library for multiple parties built on top of the Vert.x framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-10-25T08:51:27Z",
-            "owner": "maxamel",
-            "repo": "GDH",
-            "stars": 34
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "certbot",
+              "description": "Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26516210,
+                "language": "Python",
+                "last_commit": "2026-08-18T20:29:04Z",
+                "owner": "certbot",
+                "repo": "certbot",
+                "stars": 33204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sops",
+              "description": "sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40684033,
+                "language": "Go",
+                "last_commit": "2026-08-17T17:56:38Z",
+                "owner": "getsops",
+                "repo": "sops",
+                "stars": 22857
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cryptomator",
+              "description": "Multi-platform transparent client-side encryption of your files in the cloud.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16446099,
+                "language": "Java",
+                "last_commit": "2026-08-18T15:42:10Z",
+                "owner": "cryptomator",
+                "repo": "cryptomator",
+                "stars": 15916
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "blackbox",
+              "description": "safely store secrets in Git/Mercurial/Subversion.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 18495400,
+                "language": "Go",
+                "last_commit": "2025-11-05T15:44:20Z",
+                "owner": "StackExchange",
+                "repo": "blackbox",
+                "stars": 6771
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nipe",
+              "description": "Nipe is a script to make Tor Network your default gateway.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42069173,
+                "language": "Perl",
+                "last_commit": "2026-06-27T10:01:13Z",
+                "owner": "htrgouvea",
+                "repo": "nipe",
+                "stars": 2385
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ironssh",
+              "description": "End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 64637348,
+                "language": "C",
+                "last_commit": "2022-05-05T20:57:43Z",
+                "owner": "IronCoreLabs",
+                "repo": "ironssh",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Coherence",
+              "description": "Cryptographic server for modern web apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126880077,
+                "language": "C++",
+                "last_commit": "2026-05-30T01:19:07Z",
+                "owner": "liesware",
+                "repo": "coherence",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Standalone"
         }
       ],
-      "title": "Java"
+      "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Nettle.jl",
-          "description": "Julia wrapper around nettle cryptographic hashing/ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as well as AES encryption/decryption.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2022-06-24T15:26:04Z",
-            "owner": "JuliaCrypto",
-            "repo": "Nettle.jl",
-            "stars": 59
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenSSL",
+              "description": "TLS/SSL and crypto library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7634677,
+                "language": "C",
+                "last_commit": "2026-08-19T11:04:12Z",
+                "owner": "openssl",
+                "repo": "openssl",
+                "stars": 30657
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libsodium",
+              "description": "Modern and easy-to-use crypto library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7710647,
+                "language": "C",
+                "last_commit": "2026-08-13T05:30:53Z",
+                "owner": "jedisct1",
+                "repo": "libsodium",
+                "stars": 13902
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xxHash",
+              "description": "Extremely fast hash algorithm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19330466,
+                "language": "C",
+                "last_commit": "2026-07-27T13:42:29Z",
+                "owner": "Cyan4973",
+                "repo": "xxHash",
+                "stars": 11208
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tiny-AES128-C",
+              "description": "Small portable AES128 in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4434428,
+                "language": "C",
+                "last_commit": "2024-10-04T09:45:23Z",
+                "owner": "kokke",
+                "repo": "tiny-AES-c",
+                "stars": 4998
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wolfSSL",
+              "description": "Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28928522,
+                "language": "C",
+                "last_commit": "2026-08-18T23:02:20Z",
+                "owner": "wolfSSL",
+                "repo": "wolfssl",
+                "stars": 2911
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crypto-algorithms",
+              "description": "Basic implementations of standard cryptography algorithms, like AES and SHA-1.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5791078,
+                "language": "C",
+                "last_commit": "2020-12-28T06:38:19Z",
+                "owner": "B-Con",
+                "repo": "crypto-algorithms",
+                "stars": 2035
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "themis",
+              "description": "High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35159920,
+                "language": "C",
+                "last_commit": "2026-04-24T14:01:56Z",
+                "owner": "cossacklabs",
+                "repo": "themis",
+                "stars": 1973
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libtomcrypt",
+              "description": "Fairly comprehensive, modular and portable cryptographic toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 777011,
+                "language": "C",
+                "last_commit": "2026-08-08T15:05:13Z",
+                "owner": "libtom",
+                "repo": "libtomcrypt",
+                "stars": 1785
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RHash",
+              "description": "Great utility for computing hash sums.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1882998,
+                "language": "C",
+                "last_commit": "2026-04-11T08:00:28Z",
+                "owner": "rhash",
+                "repo": "RHash",
+                "stars": 726
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XKCP",
+              "description": "is a repository that gathers different free and open-source implementations of the cryptographic schemes defined by the Keccak team.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11066960,
+                "language": "C",
+                "last_commit": "2026-07-30T07:11:06Z",
+                "owner": "XKCP",
+                "repo": "XKCP",
+                "stars": 659
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libkcapi",
+              "description": "Linux Kernel Crypto API User Space Interface Library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26701892,
+                "language": "C",
+                "last_commit": "2026-08-08T15:59:31Z",
+                "owner": "smuellerDD",
+                "repo": "libkcapi",
+                "stars": 197
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nettle",
+              "description": "is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel space.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59017402,
+                "language": "C",
+                "last_commit": "2026-08-13T19:36:13Z",
+                "owner": "gnutls",
+                "repo": "nettle",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libVES.c",
+              "description": "End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163637347,
+                "language": "C",
+                "last_commit": "2026-08-05T01:21:45Z",
+                "owner": "vesvault",
+                "repo": "libVES.c",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "milagro-crypto-c",
+              "description": "Small, self-contained and fast open source crypto library. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3 and Pairing-Based Cryptography.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 84534790,
+                "language": "C",
+                "last_commit": "2024-03-21T14:22:03Z",
+                "owner": "apache",
+                "repo": "incubator-milagro-crypto-c",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C"
         },
         {
-          "node_type": "item",
-          "title": "SHA.jl",
-          "description": "Performant, 100% native-julia SHA1, SHA2-{224,256,384,512} implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2026-07-14T11:41:25Z",
-            "owner": "JuliaCrypto",
-            "repo": "SHA.jl",
-            "stars": 52
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cryptopp",
+              "description": "Crypto++ Library is a free C++ class library of cryptographic schemes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36832736,
+                "language": "C++",
+                "last_commit": "2026-08-05T18:42:39Z",
+                "owner": "weidai11",
+                "repo": "cryptopp",
+                "stars": 5491
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "s2n",
+              "description": "Implementation of the TLS/SSL protocols.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21287076,
+                "language": "C",
+                "last_commit": "2026-08-19T00:08:28Z",
+                "owner": "aws",
+                "repo": "s2n-tls",
+                "stars": 4752
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "=nil; Crypto3",
+              "description": "Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 181238498,
+                "language": "C++",
+                "last_commit": "2024-10-14T07:50:00Z",
+                "owner": "NilFoundation",
+                "repo": "crypto3",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HElib",
+              "description": "Software library that implements homomorphic encryption (HE).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 703809153,
+                "language": null,
+                "last_commit": "2023-10-17T20:57:40Z",
+                "owner": "shaih",
+                "repo": "HElib",
+                "stars": 48
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C++"
         },
         {
-          "node_type": "item",
-          "title": "MbedTLS.jl",
-          "description": "Wrapper around the mbed TLS and cryptography C libary.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2026-05-01T14:18:35Z",
-            "owner": "JuliaLang",
-            "repo": "MbedTLS.jl",
-            "stars": 42
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SecurityDriven.Inferno",
+              "description": ".NET crypto done right.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38902483,
+                "language": "C#",
+                "last_commit": "2026-06-05T18:31:51Z",
+                "owner": "sdrapkin",
+                "repo": "SecurityDriven.Inferno",
+                "stars": 585
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PCLCrypto",
+              "description": "Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 17098972,
+                "language": "C#",
+                "last_commit": "2024-04-01T14:16:36Z",
+                "owner": "AArnott",
+                "repo": "PCLCrypto",
+                "stars": 224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StreamCryptor",
+              "description": "Stream encryption & decryption with libsodium and protobuf.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23978428,
+                "language": "C#",
+                "last_commit": "2017-03-10T18:18:43Z",
+                "owner": "bitbeans",
+                "repo": "StreamCryptor",
+                "stars": 132
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C-sharp"
         },
         {
-          "node_type": "item",
-          "title": "Crypto.jl",
-          "description": "Library that wraps OpenSSL, but also has pure Julia implementations for reference.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2021-04-25T14:38:49Z",
-            "owner": "danielsuo",
-            "repo": "Crypto.jl",
-            "stars": 11
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pandect",
+              "description": "Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 10091725,
+                "language": "Clojure",
+                "last_commit": "2024-09-17T12:23:44Z",
+                "owner": "xsc",
+                "repo": "pandect",
+                "stars": 220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "secrets.clj",
+              "description": "A Clojure library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299524766,
+                "language": "Clojure",
+                "last_commit": "2024-04-05T09:00:35Z",
+                "owner": "lk-geimfari",
+                "repo": "secrets.clj",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clj-crypto",
+              "description": "Wrapper for Bouncy Castle.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3383200,
+                "language": "Clojure",
+                "last_commit": "2016-11-10T17:30:56Z",
+                "owner": "macourtney",
+                "repo": "clj-crypto",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clojure"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "trivial-ssh",
+              "description": "SSH client library for Common Lisp (Built on libssh2).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 24800350,
+                "language": "Common Lisp",
+                "last_commit": "2021-04-03T03:15:23Z",
+                "owner": "eudoxia0",
+                "repo": "trivial-ssh",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crypto-shortcuts",
+              "description": "Collection of common cryptography functions.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 23077204,
+                "language": "Common Lisp",
+                "last_commit": "2026-05-18T10:45:24Z",
+                "owner": "Shinmera",
+                "repo": "crypto-shortcuts",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Common Lisp"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SynCrypto",
+              "description": "Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19245921,
+                "language": "Pascal",
+                "last_commit": "2026-06-05T17:50:49Z",
+                "owner": "synopse",
+                "repo": "mORMot",
+                "stars": 823
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DelphiEncryptionCompendium",
+              "description": "Cryptographic library for Delphi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32552265,
+                "language": "HTML",
+                "last_commit": "2026-07-26T18:43:49Z",
+                "owner": "MHumm",
+                "repo": "DelphiEncryptionCompendium",
+                "stars": 286
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Delphi"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "comeonin",
+              "description": "Password authorization (bcrypt) library for Elixir.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28223437,
+                "language": "Elixir",
+                "last_commit": "2025-02-03T22:34:40Z",
+                "owner": "riverrun",
+                "repo": "comeonin",
+                "stars": 1317
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cloak",
+              "description": "Cloak makes it easy to use encryption with Ecto.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42597632,
+                "language": "Elixir",
+                "last_commit": "2026-08-18T09:40:35Z",
+                "owner": "danielberkompas",
+                "repo": "cloak",
+                "stars": 624
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pot",
+              "description": "Erlang library for generating one time passwords compatible with Google Authenticator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29441722,
+                "language": "Erlang",
+                "last_commit": "2023-12-08T04:57:57Z",
+                "owner": "yuce",
+                "repo": "pot",
+                "stars": 242
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ex_crypto",
+              "description": "Elixir wrapper for Erlang and modules. Provides sensible defaults for many crypto functions to make them easier to use.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44831591,
+                "language": "Elixir",
+                "last_commit": "2024-06-26T10:13:12Z",
+                "owner": "ntrepid8",
+                "repo": "ex_crypto",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cipher",
+              "description": "Elixir crypto library to encrypt/decrypt arbitrary binaries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26358068,
+                "language": "Elixir",
+                "last_commit": "2021-06-04T14:04:59Z",
+                "owner": "rubencaro",
+                "repo": "cipher",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elixir-rsa",
+              "description": "cryptography wrapper for Elixir.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28457701,
+                "language": "Elixir",
+                "last_commit": "2019-11-21T16:01:27Z",
+                "owner": "trapped",
+                "repo": "elixir-rsa",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "exgpg",
+              "description": "Use gpg from Elixir.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29644413,
+                "language": "Elixir",
+                "last_commit": "2018-08-29T22:26:06Z",
+                "owner": "rozap",
+                "repo": "exgpg",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "siphash-elixir",
+              "description": "Elixir implementation of the SipHash hash family.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48388884,
+                "language": "Elixir",
+                "last_commit": "2021-09-07T18:29:25Z",
+                "owner": "whitfin",
+                "repo": "siphash-elixir",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elixir_tea",
+              "description": "TEA implementation in Elixir.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28699358,
+                "language": "Elixir",
+                "last_commit": "2015-05-06T11:59:57Z",
+                "owner": "keichan34",
+                "repo": "elixir_tea",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Elixir"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "goThemis",
+              "description": "Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35159920,
+                "language": "C",
+                "last_commit": "2026-04-24T14:01:56Z",
+                "owner": "cossacklabs",
+                "repo": "themis",
+                "stars": 1973
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kyber",
+              "description": "Advanced crypto library for the Go language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25253455,
+                "language": "Go",
+                "last_commit": "2026-06-22T00:59:01Z",
+                "owner": "dedis",
+                "repo": "kyber",
+                "stars": 701
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gocrypto",
+              "description": "Example source code for the Practical Crypto with Go book.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8194114,
+                "language": "Go",
+                "last_commit": "2019-12-05T06:29:24Z",
+                "owner": "kisom",
+                "repo": "gocrypto",
+                "stars": 157
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dkeyczar",
+              "description": "Port of Google's Keyczar cryptography library to Go.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2960917,
+                "language": "Go",
+                "last_commit": "2020-05-15T20:22:28Z",
+                "owner": "dgryski",
+                "repo": "dkeyczar",
+                "stars": 112
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cryptol",
+              "description": "The Language of Cryptography.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18895427,
+                "language": "Haskell",
+                "last_commit": "2026-08-17T21:34:50Z",
+                "owner": "GaloisInc",
+                "repo": "cryptol",
+                "stars": 1217
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HsOpenSSL",
+              "description": "OpenSSL binding for Haskel.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2279247,
+                "language": "Haskell",
+                "last_commit": "2020-01-17T16:42:40Z",
+                "owner": "depressed-pho",
+                "repo": "HsOpenSSL",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scrypt",
+              "description": "Haskell bindings to Colin Percival's scrypt implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1920545,
+                "language": "C",
+                "last_commit": "2023-12-12T04:03:44Z",
+                "owner": "informatikr",
+                "repo": "scrypt",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Haskell"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "crypto-js",
+              "description": "JavaScript library of crypto standards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9305860,
+                "language": "JavaScript",
+                "last_commit": "2024-08-09T08:16:59Z",
+                "owner": "brix",
+                "repo": "crypto-js",
+                "stars": 16400
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "node.bcrypt.js",
+              "description": "bcrypt for Node.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 611333,
+                "language": "C++",
+                "last_commit": "2026-04-14T10:58:59Z",
+                "owner": "kelektiv",
+                "repo": "node.bcrypt.js",
+                "stars": 7802
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sjcl",
+              "description": "Stanford JavaScript Crypto Library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 688208,
+                "language": "JavaScript",
+                "last_commit": "2026-03-18T21:29:06Z",
+                "owner": "bitwiseshiftleft",
+                "repo": "sjcl",
+                "stars": 7201
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jsencrypt",
+              "description": "JavaScript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8227684,
+                "language": "JavaScript",
+                "last_commit": "2026-04-08T09:02:21Z",
+                "owner": "travist",
+                "repo": "jsencrypt",
+                "stars": 6804
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenPGP.js",
+              "description": "OpenPGP implementation for JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2765899,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T22:53:15Z",
+                "owner": "openpgpjs",
+                "repo": "openpgpjs",
+                "stars": 5966
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "forge",
+              "description": "Native implementation of TLS in JavaScript and tools to write crypto-based and network-heavy webapps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 779570,
+                "language": "JavaScript",
+                "last_commit": "2026-03-25T20:58:31Z",
+                "owner": "digitalbazaar",
+                "repo": "forge",
+                "stars": 5327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "closure-library",
+              "description": "Google's common JavaScript library.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 12169108,
+                "language": "JavaScript",
+                "last_commit": "2024-08-01T20:51:28Z",
+                "owner": "google",
+                "repo": "closure-library",
+                "stars": 4895
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jsrsasign",
+              "description": "The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4180355,
+                "language": "HTML",
+                "last_commit": "2026-08-19T01:22:52Z",
+                "owner": "kjur",
+                "repo": "jsrsasign",
+                "stars": 3376
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jsThemis",
+              "description": "JavaScript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35159920,
+                "language": "C",
+                "last_commit": "2026-04-24T14:01:56Z",
+                "owner": "cossacklabs",
+                "repo": "themis",
+                "stars": 1973
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TweetNaCl.js",
+              "description": "A port of TweetNaCl / NaCl for JavaScript for modern browsers and Node.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15649752,
+                "language": "JavaScript",
+                "last_commit": "2025-08-15T11:43:43Z",
+                "owner": "dchest",
+                "repo": "tweetnacl-js",
+                "stars": 1921
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cryptico",
+              "description": "Easy-to-use encryption system utilizing RSA and AES for JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 5218476,
+                "language": "JavaScript",
+                "last_commit": "2021-01-18T16:57:56Z",
+                "owner": "wwwtyro",
+                "repo": "cryptico",
+                "stars": 1177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libsodium.js",
+              "description": "libsodium compiled to pure JavaScript, with convenient wrappers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29293352,
+                "language": "HTML",
+                "last_commit": "2026-07-14T18:41:07Z",
+                "owner": "jedisct1",
+                "repo": "libsodium.js",
+                "stars": 1151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JShashes",
+              "description": "Fast and dependency-free cryptographic hashing library for Node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3131890,
+                "language": "JavaScript",
+                "last_commit": "2022-05-30T10:47:07Z",
+                "owner": "h2non",
+                "repo": "jshashes",
+                "stars": 724
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "asmCrypto",
+              "description": "JavaScript implementation of popular cryptographic utilities with performance in mind.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 13987993,
+                "language": "JavaScript",
+                "last_commit": "2023-02-07T20:56:35Z",
+                "owner": "asmcrypto",
+                "repo": "asmcrypto.js",
+                "stars": 668
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "URSA",
+              "description": "RSA public/private key OpenSSL bindings for Node.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3391194,
+                "language": "JavaScript",
+                "last_commit": "2019-04-29T18:44:02Z",
+                "owner": "JoshKaufman",
+                "repo": "ursa",
+                "stars": 613
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "js-nacl",
+              "description": "Pure-JavaScript High-level API to Emscripten-compiled libsodium routines.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 9122611,
+                "language": "JavaScript",
+                "last_commit": "2022-03-16T12:11:40Z",
+                "owner": "tonyg",
+                "repo": "js-nacl",
+                "stars": 493
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cryptojs",
+              "description": "Provide standard and secure cryptographic algorithms for Node.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3171158,
+                "language": "JavaScript",
+                "last_commit": "2012-07-21T00:36:41Z",
+                "owner": "gwjjeff",
+                "repo": "cryptojs",
+                "stars": 326
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "javascript-crypto-library",
+              "description": "JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2323649,
+                "language": "JavaScript",
+                "last_commit": "2016-01-11T09:50:12Z",
+                "owner": "clipperz",
+                "repo": "javascript-crypto-library",
+                "stars": 284
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rusha",
+              "description": "High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9008640,
+                "language": "JavaScript",
+                "last_commit": "2024-06-09T04:34:03Z",
+                "owner": "srijs",
+                "repo": "rusha",
+                "stars": 277
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PolyCrypt",
+              "description": "Pure JS implementation of the WebCrypto API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7488382,
+                "language": "JavaScript",
+                "last_commit": "2015-04-24T16:45:14Z",
+                "owner": "polycrypt",
+                "repo": "polycrypt",
+                "stars": 266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cifre",
+              "description": "Fast crypto toolkit for modern client-side JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7921901,
+                "language": "JavaScript",
+                "last_commit": "2013-07-30T21:14:30Z",
+                "owner": "hookflash",
+                "repo": "obsolete.cifre",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "micro-rsa-dsa-dh",
+              "description": "Minimal implementation of older cryptography algorithms: RSA, DSA, DH, ElGamal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 824139488,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T16:21:47Z",
+                "owner": "paulmillr",
+                "repo": "micro-rsa-dsa-dh",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "milagro-crypto-js",
+              "description": "MCJS is a standards compliant JavaScript cryptographic library with no external dependencies except for the random seed source. Compatible for Node.js and browser. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3, Pairing-Based Cryptography and New Hope.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 156619550,
+                "language": "JavaScript",
+                "last_commit": "2024-03-21T14:26:53Z",
+                "owner": "apache",
+                "repo": "incubator-milagro-crypto-js",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libVES.js",
+              "description": "End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111947952,
+                "language": "JavaScript",
+                "last_commit": "2026-07-09T20:42:09Z",
+                "owner": "vesvault",
+                "repo": "libVES",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "noble - high-security, easily auditable set of contained cryptographic libraries and tools. Zero dependencies each.",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "noble-curves",
+                  "description": "elliptic curve cryptography, including Weierstrass, Edwards, Montgomery curves, pairings, hash-to-curve, poseidon hash, schnorr, secp256k1, ed25519, ed448, p521, bn254, bls12-381 and others. Also 4kb noble-secp256k1, noble-ed25519",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 573750299,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-17T14:11:57Z",
+                    "owner": "paulmillr",
+                    "repo": "noble-curves",
+                    "stars": 937
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "noble-hashes",
+                  "description": "SHA2, SHA3, RIPEMD, BLAKE2/3, HMAC, HKDF, PBKDF2, Scrypt & Argon2id",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 414330605,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T10:41:25Z",
+                    "owner": "paulmillr",
+                    "repo": "noble-hashes",
+                    "stars": 901
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "noble-ciphers",
+                  "description": "cryptographic ciphers, including AES-SIV, Salsa20, ChaCha, Poly1305 and FF1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 659761312,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-14T06:56:21Z",
+                    "owner": "paulmillr",
+                    "repo": "noble-ciphers",
+                    "stars": 412
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "noble-post-quantum",
+                  "description": "ML-KEM, ML-DSA, SLH-DSA (CRYSTALS-Kyber, CRYSTALS-Dilithium, Sphincs+) and hybrids",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 764428596,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-15T04:41:33Z",
+                    "owner": "paulmillr",
+                    "repo": "noble-post-quantum",
+                    "stars": 348
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Keycloak",
+              "description": "Open Source Identity and Access Management For Modern Applications and Services.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11125589,
+                "language": "Java",
+                "last_commit": "2026-08-19T11:37:16Z",
+                "owner": "keycloak",
+                "repo": "keycloak",
+                "stars": 36274
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pac4j",
+              "description": "Security engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3291848,
+                "language": "Java",
+                "last_commit": "2026-08-19T06:49:31Z",
+                "owner": "pac4j",
+                "repo": "pac4j",
+                "stars": 2519
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java Themis",
+              "description": "Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35159920,
+                "language": "C",
+                "last_commit": "2026-04-24T14:01:56Z",
+                "owner": "cossacklabs",
+                "repo": "themis",
+                "stars": 1973
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scrypt",
+              "description": "Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1274723,
+                "language": "Java",
+                "last_commit": "2020-10-13T09:57:06Z",
+                "owner": "wg",
+                "repo": "scrypt",
+                "stars": 434
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Password4j",
+              "description": "A Java user-friendly cryptographic library for hashing and checking passwords with different Key derivation functions (KDFs) and Cryptographic hash functions (CHFs).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246137716,
+                "language": "Java",
+                "last_commit": "2026-04-16T13:40:56Z",
+                "owner": "Password4j",
+                "repo": "password4j",
+                "stars": 430
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Google Tink",
+              "description": "A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 494471755,
+                "language": "Java",
+                "last_commit": "2026-08-19T11:43:59Z",
+                "owner": "tink-crypto",
+                "repo": "tink-java",
+                "stars": 299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "securitybuilder",
+              "description": "Fluent Builder API for JCA/JSSE objects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151899243,
+                "language": "Java",
+                "last_commit": "2021-06-26T01:12:37Z",
+                "owner": "tersesystems",
+                "repo": "securitybuilder",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GDH",
+              "description": "Generalized Diffie-Hellman key exchange Java library for multiple parties built on top of the Vert.x framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100943978,
+                "language": "Java",
+                "last_commit": "2019-10-25T08:51:27Z",
+                "owner": "maxamel",
+                "repo": "GDH",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nettle.jl",
+              "description": "Julia wrapper around nettle cryptographic hashing/ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as well as AES encryption/decryption.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12471213,
+                "language": "Julia",
+                "last_commit": "2022-06-24T15:26:04Z",
+                "owner": "JuliaCrypto",
+                "repo": "Nettle.jl",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SHA.jl",
+              "description": "Performant, 100% native-julia SHA1, SHA2-{224,256,384,512} implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22740940,
+                "language": "Julia",
+                "last_commit": "2026-07-14T11:41:25Z",
+                "owner": "JuliaCrypto",
+                "repo": "SHA.jl",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MbedTLS.jl",
+              "description": "Wrapper around the mbed TLS and cryptography C libary.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41854188,
+                "language": "Julia",
+                "last_commit": "2026-05-01T14:18:35Z",
+                "owner": "JuliaLang",
+                "repo": "MbedTLS.jl",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crypto.jl",
+              "description": "Library that wraps OpenSSL, but also has pure Julia implementations for reference.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27246126,
+                "language": "Julia",
+                "last_commit": "2021-04-25T14:38:49Z",
+                "owner": "danielsuo",
+                "repo": "Crypto.jl",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Julia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lua-lockbox",
+              "description": "Collection of cryptographic primitives written in pure Lua.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29778796,
+                "language": "Lua",
+                "last_commit": "2024-01-27T15:55:11Z",
+                "owner": "somesocks",
+                "repo": "lua-lockbox",
+                "stars": 378
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LuaCrypto",
+              "description": "Lua bindings to OpenSSL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612604,
+                "language": "Shell",
+                "last_commit": "2019-06-25T09:07:30Z",
+                "owner": "mkottman",
+                "repo": "luacrypto",
+                "stars": 104
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lua"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ocaml-tls",
+              "description": "TLS in pure OCaml.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16819866,
+                "language": "OCaml",
+                "last_commit": "2026-07-28T07:31:30Z",
+                "owner": "mirleft",
+                "repo": "ocaml-tls",
+                "stars": 322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Digestif",
+              "description": "is a toolbox that implements various cryptographic primitives in C and OCaml.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33586940,
+                "language": "OCaml",
+                "last_commit": "2026-07-15T10:34:37Z",
+                "owner": "mirage",
+                "repo": "digestif",
+                "stars": 95
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OCaml"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RNCryptor",
+              "description": "CCCryptor (AES encryption) wrappers for iOS and Mac.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3744429,
+                "language": "Swift",
+                "last_commit": "2025-03-22T14:37:48Z",
+                "owner": "RNCryptor",
+                "repo": "RNCryptor",
+                "stars": 3358
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ObjC Themis",
+              "description": "ObjC wrapper on Themis for iOS and macOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35159920,
+                "language": "C",
+                "last_commit": "2026-04-24T14:01:56Z",
+                "owner": "cossacklabs",
+                "repo": "themis",
+                "stars": 1973
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CocoaSecurity",
+              "description": "AES, MD5, SHA1, SHA224, SHA256, SHA384, SHA512, Base64, Hex.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4329779,
+                "language": "Objective-C",
+                "last_commit": "2020-01-04T10:12:05Z",
+                "owner": "kelp404",
+                "repo": "CocoaSecurity",
+                "stars": 1131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ObjectivePGP",
+              "description": "ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22259463,
+                "language": "Objective-C",
+                "last_commit": "2024-05-20T15:48:44Z",
+                "owner": "krzyzanowskim",
+                "repo": "ObjectivePGP",
+                "stars": 724
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Objective-C"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PHP Encryption",
+              "description": "Library for encrypting data with a key or password in PHP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16571051,
+                "language": "PHP",
+                "last_commit": "2024-01-02T15:04:49Z",
+                "owner": "defuse",
+                "repo": "php-encryption",
+                "stars": 3866
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP Themis",
+              "description": "PHP wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35159920,
+                "language": "C",
+                "last_commit": "2026-04-24T14:01:56Z",
+                "owner": "cossacklabs",
+                "repo": "themis",
+                "stars": 1973
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TCrypto",
+              "description": "TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1961517,
+                "language": "PHP",
+                "last_commit": "2016-08-10T06:25:11Z",
+                "owner": "timoh6",
+                "repo": "TCrypto",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libsodium-laravel",
+              "description": "Laravel Package Abstraction using .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42185755,
+                "language": "PHP",
+                "last_commit": "2016-03-04T21:33:45Z",
+                "owner": "scrothers",
+                "repo": "libsodium-laravel",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pycryptodome",
+              "description": "Self-contained Python package of low-level cryptographic primitives.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19378935,
+                "language": "C",
+                "last_commit": "2026-07-18T07:43:51Z",
+                "owner": "Legrandin",
+                "repo": "pycryptodome",
+                "stars": 3250
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pythemis",
+              "description": "Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35159920,
+                "language": "C",
+                "last_commit": "2026-04-24T14:01:56Z",
+                "owner": "cossacklabs",
+                "repo": "themis",
+                "stars": 1973
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bcrypt",
+              "description": "Modern password hashing for your software and your servers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9993757,
+                "language": "Python",
+                "last_commit": "2026-08-17T07:52:52Z",
+                "owner": "pyca",
+                "repo": "bcrypt",
+                "stars": 1498
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hashids",
+              "description": "Implementation of hashids in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10273838,
+                "language": "Python",
+                "last_commit": "2023-07-04T14:06:52Z",
+                "owner": "davidaurelio",
+                "repo": "hashids-python",
+                "stars": 1413
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pynacl",
+              "description": "Python binding to the Networking and Cryptography (NaCl) library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8350032,
+                "language": "C",
+                "last_commit": "2026-08-18T11:08:50Z",
+                "owner": "pyca",
+                "repo": "pynacl",
+                "stars": 1204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ecdsa",
+              "description": "An easy-to-use implementation of ECC with support for ECDSA and ECDH.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617112,
+                "language": "Python",
+                "last_commit": "2026-06-08T08:43:37Z",
+                "owner": "tlsfuzzer",
+                "repo": "python-ecdsa",
+                "stars": 974
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "charm",
+              "description": "Framework for rapidly prototyping cryptosystems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1751860,
+                "language": "Python",
+                "last_commit": "2026-04-19T06:11:56Z",
+                "owner": "JHUISI",
+                "repo": "charm",
+                "stars": 648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-cryptography",
+              "description": "Easily encrypt data in Django.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52944543,
+                "language": "Python",
+                "last_commit": "2024-11-18T05:40:33Z",
+                "owner": "georgemarshall",
+                "repo": "django-cryptography",
+                "stars": 409
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Privy",
+              "description": "An easy, fast lib to correctly password-protect your data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81870414,
+                "language": "Python",
+                "last_commit": "2018-11-06T19:13:42Z",
+                "owner": "ofek",
+                "repo": "privy",
+                "stars": 255
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyElliptic",
+              "description": "Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2309776,
+                "language": "Python",
+                "last_commit": "2017-04-25T12:58:27Z",
+                "owner": "yann2192",
+                "repo": "pyelliptic",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crypto-Vinaigrette",
+              "description": "Quantum resistant asymmetric key generation tool for digital signatures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126040611,
+                "language": "Python",
+                "last_commit": "2019-06-02T18:17:08Z",
+                "owner": "aditisrinivas97",
+                "repo": "Crypto-Vinaigrette",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bcrypt-ruby",
+              "description": "Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15293,
+                "language": "C",
+                "last_commit": "2026-06-19T18:33:31Z",
+                "owner": "bcrypt-ruby",
+                "repo": "bcrypt-ruby",
+                "stars": 1996
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ruby Themis",
+              "description": "Ruby wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35159920,
+                "language": "C",
+                "last_commit": "2026-04-24T14:01:56Z",
+                "owner": "cossacklabs",
+                "repo": "themis",
+                "stars": 1973
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RbNaCl",
+              "description": "Ruby binding to the Networking and Cryptography (NaCl) library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7723866,
+                "language": "Ruby",
+                "last_commit": "2025-10-28T14:19:18Z",
+                "owner": "RubyCrypto",
+                "repo": "rbnacl",
+                "stars": 985
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rustls",
+              "description": "Rustls is a new, modern TLS library written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57920736,
+                "language": "Rust",
+                "last_commit": "2026-08-19T07:52:43Z",
+                "owner": "rustls",
+                "repo": "rustls",
+                "stars": 7575
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BLAKE3",
+              "description": "is official Rust and C implementations of the BLAKE3 cryptographic hash function.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 220778874,
+                "language": "Assembly",
+                "last_commit": "2026-08-05T22:37:19Z",
+                "owner": "BLAKE3-team",
+                "repo": "BLAKE3",
+                "stars": 6377
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ockam",
+              "description": "is a Rust library for end-to-end encryption and mutual authentication.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159866229,
+                "language": "Rust",
+                "last_commit": "2026-01-04T22:01:38Z",
+                "owner": "build-trust",
+                "repo": "ockam",
+                "stars": 4630
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ring",
+              "description": "Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39527318,
+                "language": "Assembly",
+                "last_commit": "2026-07-23T18:48:09Z",
+                "owner": "briansmith",
+                "repo": "ring",
+                "stars": 4104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rage",
+              "description": "is a simple, modern, and secure file encryption tool, using the age format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213749542,
+                "language": "Rust",
+                "last_commit": "2026-08-16T23:23:29Z",
+                "owner": "str4d",
+                "repo": "rage",
+                "stars": 3622
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hashes",
+              "description": "Collection of cryptographic hash functions written in pure Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74106774,
+                "language": "Rust",
+                "last_commit": "2026-08-11T06:43:09Z",
+                "owner": "RustCrypto",
+                "repo": "hashes",
+                "stars": 2255
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rust-openssl",
+              "description": "OpenSSL bindings for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15500883,
+                "language": "Rust",
+                "last_commit": "2026-08-11T14:51:59Z",
+                "owner": "rust-openssl",
+                "repo": "rust-openssl",
+                "stars": 1639
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rust-crypto",
+              "description": "Mostly pure-Rust implementation of various cryptographic algorithms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13431919,
+                "language": "Rust",
+                "last_commit": "2023-03-20T06:55:07Z",
+                "owner": "DaGenix",
+                "repo": "rust-crypto",
+                "stars": 1455
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "snow",
+              "description": "Pure Rust implementation of Trevor Perrin’s Noise Protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71048006,
+                "language": "Rust",
+                "last_commit": "2026-07-06T08:14:33Z",
+                "owner": "mcginty",
+                "repo": "snow",
+                "stars": 1090
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mundane",
+              "description": "is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151319446,
+                "language": "Rust",
+                "last_commit": "2023-07-07T16:15:57Z",
+                "owner": "google",
+                "repo": "mundane",
+                "stars": 1084
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AEADs",
+              "description": "Authenticated Encryption with Associated Data Algorithms: high-level encryption ciphers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202787241,
+                "language": "Rust",
+                "last_commit": "2026-08-14T21:14:29Z",
+                "owner": "RustCrypto",
+                "repo": "AEADs",
+                "stars": 953
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "password-hashes",
+              "description": "Collection of password hashing algorithms, otherwise known as password-based key derivation functions, written in pure Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100466775,
+                "language": "Rust",
+                "last_commit": "2026-08-17T05:53:06Z",
+                "owner": "RustCrypto",
+                "repo": "password-hashes",
+                "stars": 906
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elliptic-curves",
+              "description": "Collection of pure Rust elliptic curve implementations: NIST P-224, P-256, P-384, P-521, secp256k1, SM2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231998609,
+                "language": "Rust",
+                "last_commit": "2026-08-10T16:22:53Z",
+                "owner": "RustCrypto",
+                "repo": "elliptic-curves",
+                "stars": 872
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "orion",
+              "description": "is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120498667,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:03:36Z",
+                "owner": "orion-rs",
+                "repo": "orion",
+                "stars": 721
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "signatures",
+              "description": "Cryptographic signature algorithms: DSA, ECDSA, Ed25519.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155469874,
+                "language": "Rust",
+                "last_commit": "2026-08-11T14:32:49Z",
+                "owner": "RustCrypto",
+                "repo": "signatures",
+                "stars": 655
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sodiumoxide",
+              "description": "Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 14966465,
+                "language": "Rust",
+                "last_commit": "2022-09-03T20:22:14Z",
+                "owner": "sodiumoxide",
+                "repo": "sodiumoxide",
+                "stars": 644
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "webpki",
+              "description": "Web PKI TLS X.509 certificate validation in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41473746,
+                "language": "Rust",
+                "last_commit": "2025-01-21T21:57:12Z",
+                "owner": "briansmith",
+                "repo": "webpki",
+                "stars": 483
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "proteus",
+              "description": "Axolotl protocol implementation, without header keys, in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47832338,
+                "language": "Rust",
+                "last_commit": "2026-06-09T11:17:15Z",
+                "owner": "wireapp",
+                "repo": "proteus",
+                "stars": 419
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ronkathon",
+              "description": "Educational, mathematically transparent, well documentated cryptography in rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 794674804,
+                "language": "Rust",
+                "last_commit": "2025-11-24T23:30:02Z",
+                "owner": "pluto",
+                "repo": "ronkathon",
+                "stars": 347
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dryoc",
+              "description": "A pure-Rust, general purpose crypto library that implements libsodium primitives.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 322910160,
+                "language": "Rust",
+                "last_commit": "2026-07-22T12:21:53Z",
+                "owner": "brndnmtthws",
+                "repo": "dryoc",
+                "stars": 341
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "formats",
+              "description": "Cryptography-related format encoders/decoders: DER, PEM, PKCS, PKIX.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 406051759,
+                "language": "Rust",
+                "last_commit": "2026-08-19T04:01:31Z",
+                "owner": "RustCrypto",
+                "repo": "formats",
+                "stars": 332
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cryptoballot",
+              "description": "Cryptographically secure online voting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10673789,
+                "language": "Rust",
+                "last_commit": "2024-08-05T18:40:32Z",
+                "owner": "cryptoballot",
+                "repo": "cryptoballot",
+                "stars": 223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "recrypt",
+              "description": "A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150496468,
+                "language": "Rust",
+                "last_commit": "2026-07-09T17:19:12Z",
+                "owner": "IronCoreLabs",
+                "repo": "recrypt-rs",
+                "stars": 166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "octavo",
+              "description": "Highly modular & configurable hash & crypto library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39774350,
+                "language": "Rust",
+                "last_commit": "2018-03-24T15:40:29Z",
+                "owner": "libOctavo",
+                "repo": "octavo",
+                "stars": 141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "suruga",
+              "description": "TLS 1.2 implementation in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20856644,
+                "language": "Rust",
+                "last_commit": "2016-01-19T01:29:04Z",
+                "owner": "klutzy",
+                "repo": "suruga",
+                "stars": 126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "botan-rs",
+              "description": "Botan bindings for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141594768,
+                "language": "Rust",
+                "last_commit": "2026-08-17T14:07:47Z",
+                "owner": "randombit",
+                "repo": "botan-rs",
+                "stars": 47
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tsec",
+              "description": "A type-safe, functional, general purpose security and cryptography library.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 99377204,
+                "language": "Scala",
+                "last_commit": "2021-11-26T17:57:19Z",
+                "owner": "jmcardon",
+                "repo": "tsec",
+                "stars": 350
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scrypto",
+              "description": "Cryptographic primitives for Scala.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48445606,
+                "language": "Scala",
+                "last_commit": "2025-03-18T10:41:33Z",
+                "owner": "input-output-hk",
+                "repo": "scrypto",
+                "stars": 203
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "recrypt",
+              "description": "Transform encryption library for Scala.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132779657,
+                "language": "Scala",
+                "last_commit": "2026-08-08T16:11:33Z",
+                "owner": "IronCoreLabs",
+                "repo": "recrypt",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scala"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "guile-ssh",
+              "description": "libssh bindings for GNU Guile.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10154266,
+                "language": "C",
+                "last_commit": "2026-08-16T10:35:53Z",
+                "owner": "artyom-poptsov",
+                "repo": "guile-ssh",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chicken-sodium",
+              "description": "Bindings to libsodium crypto library for Chicken Scheme.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83129763,
+                "language": "Scheme",
+                "last_commit": "2017-03-07T14:02:30Z",
+                "owner": "caolan",
+                "repo": "chicken-sodium",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scheme"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CryptoSwift",
+              "description": "Crypto related functions and helpers for Swift implemented in Swift programming language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21535619,
+                "language": "Swift",
+                "last_commit": "2026-07-13T22:37:37Z",
+                "owner": "krzyzanowskim",
+                "repo": "CryptoSwift",
+                "stars": 10566
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftThemis",
+              "description": "Swift wrapper on Themis for iOS and macOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35159920,
+                "language": "C",
+                "last_commit": "2026-04-24T14:01:56Z",
+                "owner": "cossacklabs",
+                "repo": "themis",
+                "stars": 1973
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift-Sodium",
+              "description": "Swift interface to the Sodium library for common crypto operations for iOS and macOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28546877,
+                "language": "C",
+                "last_commit": "2026-05-04T09:34:23Z",
+                "owner": "jedisct1",
+                "repo": "swift-sodium",
+                "stars": 552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IDZSwiftCommonCrypto",
+              "description": "Wrapper for Apple's CommonCrypto library written in Swift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24271480,
+                "language": "Swift",
+                "last_commit": "2023-11-23T22:24:54Z",
+                "owner": "iosdevzone",
+                "repo": "IDZSwiftCommonCrypto",
+                "stars": 479
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenSSL",
+              "description": "Swift OpenSSL for macOS and Linux.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47587570,
+                "language": "Swift",
+                "last_commit": "2016-11-19T22:52:08Z",
+                "owner": "ZewoGraveyard",
+                "repo": "OpenSSL",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SweetHMAC",
+              "description": "Tiny and easy to use Swift class to encrypt strings using HMAC algorithms.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 28971698,
+                "language": "Swift",
+                "last_commit": "2016-10-20T02:31:44Z",
+                "owner": "jancassio",
+                "repo": "SweetHMAC",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Swift"
         }
       ],
-      "title": "Julia"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lua-lockbox",
-          "description": "Collection of cryptographic primitives written in pure Lua.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2024-01-27T15:55:11Z",
-            "owner": "somesocks",
-            "repo": "lua-lockbox",
-            "stars": 378
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LuaCrypto",
-          "description": "Lua bindings to OpenSSL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2019-06-25T09:07:30Z",
-            "owner": "mkottman",
-            "repo": "luacrypto",
-            "stars": 104
-          }
-        }
-      ],
-      "title": "Lua"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ocaml-tls",
-          "description": "TLS in pure OCaml.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2026-07-28T07:31:30Z",
-            "owner": "mirleft",
-            "repo": "ocaml-tls",
-            "stars": 322
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Digestif",
-          "description": "is a toolbox that implements various cryptographic primitives in C and OCaml.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2026-07-15T10:34:37Z",
-            "owner": "mirage",
-            "repo": "digestif",
-            "stars": 95
-          }
-        }
-      ],
-      "title": "OCaml"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RNCryptor",
-          "description": "CCCryptor (AES encryption) wrappers for iOS and Mac.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-03-22T14:37:48Z",
-            "owner": "RNCryptor",
-            "repo": "RNCryptor",
-            "stars": 3358
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ObjC Themis",
-          "description": "ObjC wrapper on Themis for iOS and macOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-24T14:01:56Z",
-            "owner": "cossacklabs",
-            "repo": "themis",
-            "stars": 1972
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CocoaSecurity",
-          "description": "AES, MD5, SHA1, SHA224, SHA256, SHA384, SHA512, Base64, Hex.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2020-01-04T10:12:05Z",
-            "owner": "kelp404",
-            "repo": "CocoaSecurity",
-            "stars": 1131
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ObjectivePGP",
-          "description": "ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2024-05-20T15:48:44Z",
-            "owner": "krzyzanowskim",
-            "repo": "ObjectivePGP",
-            "stars": 724
-          }
-        }
-      ],
-      "title": "Objective-C"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PHP Encryption",
-          "description": "Library for encrypting data with a key or password in PHP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-01-02T15:04:49Z",
-            "owner": "defuse",
-            "repo": "php-encryption",
-            "stars": 3866
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PHP Themis",
-          "description": "PHP wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-24T14:01:56Z",
-            "owner": "cossacklabs",
-            "repo": "themis",
-            "stars": 1972
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TCrypto",
-          "description": "TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2016-08-10T06:25:11Z",
-            "owner": "timoh6",
-            "repo": "TCrypto",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libsodium-laravel",
-          "description": "Laravel Package Abstraction using .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2016-03-04T21:33:45Z",
-            "owner": "scrothers",
-            "repo": "libsodium-laravel",
-            "stars": 23
-          }
-        }
-      ],
-      "title": "PHP"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pycryptodome",
-          "description": "Self-contained Python package of low-level cryptographic primitives.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-18T07:43:51Z",
-            "owner": "Legrandin",
-            "repo": "pycryptodome",
-            "stars": 3250
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pythemis",
-          "description": "Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-24T14:01:56Z",
-            "owner": "cossacklabs",
-            "repo": "themis",
-            "stars": 1972
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bcrypt",
-          "description": "Modern password hashing for your software and your servers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T07:52:52Z",
-            "owner": "pyca",
-            "repo": "bcrypt",
-            "stars": 1498
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hashids",
-          "description": "Implementation of hashids in Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-04T14:06:52Z",
-            "owner": "davidaurelio",
-            "repo": "hashids-python",
-            "stars": 1413
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pynacl",
-          "description": "Python binding to the Networking and Cryptography (NaCl) library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T11:08:50Z",
-            "owner": "pyca",
-            "repo": "pynacl",
-            "stars": 1204
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ecdsa",
-          "description": "An easy-to-use implementation of ECC with support for ECDSA and ECDH.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-08T08:43:37Z",
-            "owner": "tlsfuzzer",
-            "repo": "python-ecdsa",
-            "stars": 974
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "charm",
-          "description": "Framework for rapidly prototyping cryptosystems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-19T06:11:56Z",
-            "owner": "JHUISI",
-            "repo": "charm",
-            "stars": 648
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-cryptography",
-          "description": "Easily encrypt data in Django.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-18T05:40:33Z",
-            "owner": "georgemarshall",
-            "repo": "django-cryptography",
-            "stars": 409
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Privy",
-          "description": "An easy, fast lib to correctly password-protect your data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-11-06T19:13:42Z",
-            "owner": "ofek",
-            "repo": "privy",
-            "stars": 255
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyElliptic",
-          "description": "Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2017-04-25T12:58:27Z",
-            "owner": "yann2192",
-            "repo": "pyelliptic",
-            "stars": 133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Crypto-Vinaigrette",
-          "description": "Quantum resistant asymmetric key generation tool for digital signatures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-06-02T18:17:08Z",
-            "owner": "aditisrinivas97",
-            "repo": "Crypto-Vinaigrette",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "bcrypt-ruby",
-          "description": "Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-19T18:33:31Z",
-            "owner": "bcrypt-ruby",
-            "repo": "bcrypt-ruby",
-            "stars": 1996
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ruby Themis",
-          "description": "Ruby wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-24T14:01:56Z",
-            "owner": "cossacklabs",
-            "repo": "themis",
-            "stars": 1972
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RbNaCl",
-          "description": "Ruby binding to the Networking and Cryptography (NaCl) library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2025-10-28T14:19:18Z",
-            "owner": "RubyCrypto",
-            "repo": "rbnacl",
-            "stars": 985
-          }
-        }
-      ],
-      "title": "Ruby"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "rustls",
-          "description": "Rustls is a new, modern TLS library written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T14:18:15Z",
-            "owner": "rustls",
-            "repo": "rustls",
-            "stars": 7573
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BLAKE3",
-          "description": "is official Rust and C implementations of the BLAKE3 cryptographic hash function.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2026-08-05T22:37:19Z",
-            "owner": "BLAKE3-team",
-            "repo": "BLAKE3",
-            "stars": 6376
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ockam",
-          "description": "is a Rust library for end-to-end encryption and mutual authentication.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-01-04T22:01:38Z",
-            "owner": "build-trust",
-            "repo": "ockam",
-            "stars": 4629
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ring",
-          "description": "Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2026-07-23T18:48:09Z",
-            "owner": "briansmith",
-            "repo": "ring",
-            "stars": 4104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rage",
-          "description": "is a simple, modern, and secure file encryption tool, using the age format.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-16T23:23:29Z",
-            "owner": "str4d",
-            "repo": "rage",
-            "stars": 3619
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hashes",
-          "description": "Collection of cryptographic hash functions written in pure Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-11T06:43:09Z",
-            "owner": "RustCrypto",
-            "repo": "hashes",
-            "stars": 2255
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rust-openssl",
-          "description": "OpenSSL bindings for Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-11T14:51:59Z",
-            "owner": "rust-openssl",
-            "repo": "rust-openssl",
-            "stars": 1638
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rust-crypto",
-          "description": "Mostly pure-Rust implementation of various cryptographic algorithms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-03-20T06:55:07Z",
-            "owner": "DaGenix",
-            "repo": "rust-crypto",
-            "stars": 1454
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "snow",
-          "description": "Pure Rust implementation of Trevor Perrin’s Noise Protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-06T08:14:33Z",
-            "owner": "mcginty",
-            "repo": "snow",
-            "stars": 1090
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mundane",
-          "description": "is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-07-07T16:15:57Z",
-            "owner": "google",
-            "repo": "mundane",
-            "stars": 1084
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AEADs",
-          "description": "Authenticated Encryption with Associated Data Algorithms: high-level encryption ciphers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-14T21:14:29Z",
-            "owner": "RustCrypto",
-            "repo": "AEADs",
-            "stars": 952
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "password-hashes",
-          "description": "Collection of password hashing algorithms, otherwise known as password-based key derivation functions, written in pure Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T05:53:06Z",
-            "owner": "RustCrypto",
-            "repo": "password-hashes",
-            "stars": 906
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elliptic-curves",
-          "description": "Collection of pure Rust elliptic curve implementations: NIST P-224, P-256, P-384, P-521, secp256k1, SM2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-10T16:22:53Z",
-            "owner": "RustCrypto",
-            "repo": "elliptic-curves",
-            "stars": 872
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "orion",
-          "description": "is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T11:15:34Z",
-            "owner": "orion-rs",
-            "repo": "orion",
-            "stars": 721
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "signatures",
-          "description": "Cryptographic signature algorithms: DSA, ECDSA, Ed25519.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-11T14:32:49Z",
-            "owner": "RustCrypto",
-            "repo": "signatures",
-            "stars": 655
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sodiumoxide",
-          "description": "Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2022-09-03T20:22:14Z",
-            "owner": "sodiumoxide",
-            "repo": "sodiumoxide",
-            "stars": 644
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webpki",
-          "description": "Web PKI TLS X.509 certificate validation in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-01-21T21:57:12Z",
-            "owner": "briansmith",
-            "repo": "webpki",
-            "stars": 483
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "proteus",
-          "description": "Axolotl protocol implementation, without header keys, in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-09T11:17:15Z",
-            "owner": "wireapp",
-            "repo": "proteus",
-            "stars": 419
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ronkathon",
-          "description": "Educational, mathematically transparent, well documentated cryptography in rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-11-24T23:30:02Z",
-            "owner": "pluto",
-            "repo": "ronkathon",
-            "stars": 347
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dryoc",
-          "description": "A pure-Rust, general purpose crypto library that implements libsodium primitives.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-22T12:21:53Z",
-            "owner": "brndnmtthws",
-            "repo": "dryoc",
-            "stars": 341
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "formats",
-          "description": "Cryptography-related format encoders/decoders: DER, PEM, PKCS, PKIX.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T20:43:31Z",
-            "owner": "RustCrypto",
-            "repo": "formats",
-            "stars": 332
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cryptoballot",
-          "description": "Cryptographically secure online voting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-08-05T18:40:32Z",
-            "owner": "cryptoballot",
-            "repo": "cryptoballot",
-            "stars": 223
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "recrypt",
-          "description": "A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-09T17:19:12Z",
-            "owner": "IronCoreLabs",
-            "repo": "recrypt-rs",
-            "stars": 166
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "octavo",
-          "description": "Highly modular & configurable hash & crypto library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2018-03-24T15:40:29Z",
-            "owner": "libOctavo",
-            "repo": "octavo",
-            "stars": 141
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "suruga",
-          "description": "TLS 1.2 implementation in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2016-01-19T01:29:04Z",
-            "owner": "klutzy",
-            "repo": "suruga",
-            "stars": 126
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "botan-rs",
-          "description": "Botan bindings for Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T14:07:47Z",
-            "owner": "randombit",
-            "repo": "botan-rs",
-            "stars": 47
-          }
-        }
-      ],
-      "title": "Rust"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "tsec",
-          "description": "A type-safe, functional, general purpose security and cryptography library.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Scala",
-            "last_commit": "2021-11-26T17:57:19Z",
-            "owner": "jmcardon",
-            "repo": "tsec",
-            "stars": 350
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scrypto",
-          "description": "Cryptographic primitives for Scala.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2025-03-18T10:41:33Z",
-            "owner": "input-output-hk",
-            "repo": "scrypto",
-            "stars": 203
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "recrypt",
-          "description": "Transform encryption library for Scala.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2026-08-08T16:11:33Z",
-            "owner": "IronCoreLabs",
-            "repo": "recrypt",
-            "stars": 37
-          }
-        }
-      ],
-      "title": "Scala"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "guile-ssh",
-          "description": "libssh bindings for GNU Guile.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-16T10:35:53Z",
-            "owner": "artyom-poptsov",
-            "repo": "guile-ssh",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chicken-sodium",
-          "description": "Bindings to libsodium crypto library for Chicken Scheme.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scheme",
-            "last_commit": "2017-03-07T14:02:30Z",
-            "owner": "caolan",
-            "repo": "chicken-sodium",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Scheme"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CryptoSwift",
-          "description": "Crypto related functions and helpers for Swift implemented in Swift programming language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-13T22:37:37Z",
-            "owner": "krzyzanowskim",
-            "repo": "CryptoSwift",
-            "stars": 10565
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwiftThemis",
-          "description": "Swift wrapper on Themis for iOS and macOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-24T14:01:56Z",
-            "owner": "cossacklabs",
-            "repo": "themis",
-            "stars": 1972
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swift-Sodium",
-          "description": "Swift interface to the Sodium library for common crypto operations for iOS and macOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-05-04T09:34:23Z",
-            "owner": "jedisct1",
-            "repo": "swift-sodium",
-            "stars": 552
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IDZSwiftCommonCrypto",
-          "description": "Wrapper for Apple's CommonCrypto library written in Swift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-11-23T22:24:54Z",
-            "owner": "iosdevzone",
-            "repo": "IDZSwiftCommonCrypto",
-            "stars": 479
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenSSL",
-          "description": "Swift OpenSSL for macOS and Linux.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2016-11-19T22:52:08Z",
-            "owner": "ZewoGraveyard",
-            "repo": "OpenSSL",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SweetHMAC",
-          "description": "Tiny and easy to use Swift class to encrypt strings using HMAC algorithms.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2016-10-20T02:31:44Z",
-            "owner": "jancassio",
-            "repo": "SweetHMAC",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwiftSSL",
-          "description": "Elegant crypto toolkit in Swift.",
-          "children": []
-        }
-      ],
-      "title": "Swift"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "by @sobolevn\nTo the extent possible under law, the person who associated CC0 with has waived all copyright and related or neighboring rights to .\nYou should have received a copy of the CC0 legalcode along with this work. If not, see https://creativecommons.org/publicdomain/zero/1.0/.",
-      "items": [],
-      "title": "License"
+      "title": "Frameworks and Libs"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:18:17.097Z",
+    "last_updated": "2026-08-19T12:22:20.874Z",
     "original_repository": "sobolevn/awesome-cryptography",
+    "original_repository_id": 59573221,
     "original_repository_sha": "c9f2dfce9657af1951e7fcfe5038dfb15950558a",
     "enhanced_repository": "enhansome/enhansome-cryptography",
     "enhanced_repository_description": null,
