@@ -17,7 +17,7 @@
                 "last_commit": "2024-10-17T18:13:08Z",
                 "owner": "pFarb",
                 "repo": "awesome-crypto-papers",
-                "stars": 2091
+                "stars": 2092
               }
             },
             {
@@ -60,7 +60,7 @@
                 "last_commit": "2026-08-21T19:02:28Z",
                 "owner": "certbot",
                 "repo": "certbot",
-                "stars": 33207
+                "stars": 33210
               }
             },
             {
@@ -72,10 +72,10 @@
                 "archived": false,
                 "id": 40684033,
                 "language": "Go",
-                "last_commit": "2026-08-17T17:56:38Z",
+                "last_commit": "2026-08-24T09:19:35Z",
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 22898
+                "stars": 22906
               }
             },
             {
@@ -87,10 +87,10 @@
                 "archived": false,
                 "id": 16446099,
                 "language": "Java",
-                "last_commit": "2026-08-18T15:42:10Z",
+                "last_commit": "2026-08-24T09:14:43Z",
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 15972
+                "stars": 15992
               }
             },
             {
@@ -120,7 +120,7 @@
                 "last_commit": "2026-06-27T10:01:13Z",
                 "owner": "htrgouvea",
                 "repo": "nipe",
-                "stars": 2387
+                "stars": 2388
               }
             },
             {
@@ -157,6 +157,35 @@
           "description": null,
           "node_type": "group",
           "title": "Standalone"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "git-crypt",
+                  "description": "Transparent file encryption in git.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7232856,
+                    "language": "C++",
+                    "last_commit": "2025-09-24T14:22:08Z",
+                    "owner": "AGWA",
+                    "repo": "git-crypt",
+                    "stars": 9862
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Git"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Plugins"
         }
       ],
       "title": "Tools"
@@ -175,10 +204,10 @@
                 "archived": false,
                 "id": 7634677,
                 "language": "C",
-                "last_commit": "2026-08-21T18:26:15Z",
+                "last_commit": "2026-08-24T10:19:14Z",
                 "owner": "openssl",
                 "repo": "openssl",
-                "stars": 30674
+                "stars": 30673
               }
             },
             {
@@ -208,7 +237,7 @@
                 "last_commit": "2026-07-27T13:42:29Z",
                 "owner": "Cyan4973",
                 "repo": "xxHash",
-                "stars": 11217
+                "stars": 11218
               }
             },
             {
@@ -238,7 +267,7 @@
                 "last_commit": "2026-08-22T14:56:06Z",
                 "owner": "wolfSSL",
                 "repo": "wolfssl",
-                "stars": 2916
+                "stars": 2918
               }
             },
             {
@@ -407,7 +436,7 @@
                 "archived": false,
                 "id": 21287076,
                 "language": "C",
-                "last_commit": "2026-08-21T21:37:22Z",
+                "last_commit": "2026-08-24T00:08:53Z",
                 "owner": "aws",
                 "repo": "s2n-tls",
                 "stars": 4755
@@ -615,7 +644,7 @@
                 "archived": false,
                 "id": 32552265,
                 "language": "HTML",
-                "last_commit": "2026-08-23T07:54:42Z",
+                "last_commit": "2026-08-23T19:15:48Z",
                 "owner": "MHumm",
                 "repo": "DelphiEncryptionCompendium",
                 "stars": 286
@@ -797,7 +826,7 @@
                 "last_commit": "2026-06-22T00:59:01Z",
                 "owner": "dedis",
                 "repo": "kyber",
-                "stars": 702
+                "stars": 703
               }
             },
             {
@@ -901,7 +930,7 @@
                 "last_commit": "2024-08-09T08:16:59Z",
                 "owner": "brix",
                 "repo": "crypto-js",
-                "stars": 16402
+                "stars": 16401
               }
             },
             {
@@ -946,7 +975,7 @@
                 "last_commit": "2026-04-08T09:02:21Z",
                 "owner": "travist",
                 "repo": "jsencrypt",
-                "stars": 6805
+                "stars": 6804
               }
             },
             {
@@ -976,7 +1005,7 @@
                 "last_commit": "2026-03-25T20:58:31Z",
                 "owner": "digitalbazaar",
                 "repo": "forge",
-                "stars": 5328
+                "stars": 5329
               }
             },
             {
@@ -1263,10 +1292,10 @@
                     "archived": false,
                     "id": 573750299,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-22T09:53:30Z",
+                    "last_commit": "2026-08-23T17:18:29Z",
                     "owner": "paulmillr",
                     "repo": "noble-curves",
-                    "stars": 939
+                    "stars": 940
                   }
                 },
                 {
@@ -1281,7 +1310,7 @@
                     "last_commit": "2026-08-21T14:11:30Z",
                     "owner": "paulmillr",
                     "repo": "noble-hashes",
-                    "stars": 903
+                    "stars": 905
                   }
                 },
                 {
@@ -1332,10 +1361,10 @@
                 "archived": false,
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-23T13:08:18Z",
+                "last_commit": "2026-08-24T13:49:16Z",
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36348
+                "stars": 36376
               }
             },
             {
@@ -1347,7 +1376,7 @@
                 "archived": false,
                 "id": 3291848,
                 "language": "Java",
-                "last_commit": "2026-08-23T08:41:36Z",
+                "last_commit": "2026-08-24T12:03:26Z",
                 "owner": "pac4j",
                 "repo": "pac4j",
                 "stars": 2520
@@ -1737,7 +1766,7 @@
                 "last_commit": "2026-07-18T07:43:51Z",
                 "owner": "Legrandin",
                 "repo": "pycryptodome",
-                "stars": 3253
+                "stars": 3255
               }
             },
             {
@@ -1764,7 +1793,7 @@
                 "archived": false,
                 "id": 9993757,
                 "language": "Python",
-                "last_commit": "2026-08-17T07:52:52Z",
+                "last_commit": "2026-08-24T03:17:27Z",
                 "owner": "pyca",
                 "repo": "bcrypt",
                 "stars": 1499
@@ -1794,7 +1823,7 @@
                 "archived": false,
                 "id": 8350032,
                 "language": "C",
-                "last_commit": "2026-08-18T11:08:50Z",
+                "last_commit": "2026-08-24T11:22:28Z",
                 "owner": "pyca",
                 "repo": "pynacl",
                 "stars": 1204
@@ -1827,7 +1856,7 @@
                 "last_commit": "2026-04-19T06:11:56Z",
                 "owner": "JHUISI",
                 "repo": "charm",
-                "stars": 650
+                "stars": 649
               }
             },
             {
@@ -1899,6 +1928,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "rscrypt",
+              "description": "Package for a collection of scrypt cryptographic functions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15342685,
+                "language": "C",
+                "last_commit": "2022-04-19T14:01:46Z",
+                "owner": "rstudio",
+                "repo": "rscrypt",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "R"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "bcrypt-ruby",
               "description": "Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.",
               "children": [],
@@ -1958,10 +2009,10 @@
                 "archived": false,
                 "id": 57920736,
                 "language": "Rust",
-                "last_commit": "2026-08-21T16:18:01Z",
+                "last_commit": "2026-08-24T12:33:34Z",
                 "owner": "rustls",
                 "repo": "rustls",
-                "stars": 7582
+                "stars": 7583
               }
             },
             {
@@ -1976,7 +2027,7 @@
                 "last_commit": "2026-08-20T09:05:36Z",
                 "owner": "BLAKE3-team",
                 "repo": "BLAKE3",
-                "stars": 6386
+                "stars": 6390
               }
             },
             {
@@ -2006,7 +2057,7 @@
                 "last_commit": "2026-07-23T18:48:09Z",
                 "owner": "briansmith",
                 "repo": "ring",
-                "stars": 4102
+                "stars": 4103
               }
             },
             {
@@ -2021,7 +2072,7 @@
                 "last_commit": "2026-08-20T19:10:32Z",
                 "owner": "str4d",
                 "repo": "rage",
-                "stars": 3626
+                "stars": 3628
               }
             },
             {
@@ -2081,7 +2132,7 @@
                 "last_commit": "2026-07-06T08:14:33Z",
                 "owner": "mcginty",
                 "repo": "snow",
-                "stars": 1090
+                "stars": 1092
               }
             },
             {
@@ -2111,7 +2162,7 @@
                 "last_commit": "2026-08-21T21:00:06Z",
                 "owner": "RustCrypto",
                 "repo": "AEADs",
-                "stars": 953
+                "stars": 954
               }
             },
             {
@@ -2153,7 +2204,7 @@
                 "archived": false,
                 "id": 120498667,
                 "language": "Rust",
-                "last_commit": "2026-08-21T23:53:25Z",
+                "last_commit": "2026-08-24T13:32:33Z",
                 "owner": "orion-rs",
                 "repo": "orion",
                 "stars": 722
@@ -2535,7 +2586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:09:14.228Z",
+    "last_updated": "2026-08-24T13:52:22.793Z",
     "original_repository": "sobolevn/awesome-cryptography",
     "original_repository_id": 59573221,
     "original_repository_sha": "c9f2dfce9657af1951e7fcfe5038dfb15950558a",
