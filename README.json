@@ -60,7 +60,7 @@
                 "last_commit": "2026-08-21T19:02:28Z",
                 "owner": "certbot",
                 "repo": "certbot",
-                "stars": 33210
+                "stars": 33211
               }
             },
             {
@@ -90,7 +90,7 @@
                 "last_commit": "2026-08-24T09:14:43Z",
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 15992
+                "stars": 15994
               }
             },
             {
@@ -207,7 +207,7 @@
                 "last_commit": "2026-08-24T10:19:14Z",
                 "owner": "openssl",
                 "repo": "openssl",
-                "stars": 30673
+                "stars": 30674
               }
             },
             {
@@ -222,7 +222,7 @@
                 "last_commit": "2026-08-13T05:30:53Z",
                 "owner": "jedisct1",
                 "repo": "libsodium",
-                "stars": 13911
+                "stars": 13912
               }
             },
             {
@@ -1361,7 +1361,7 @@
                 "archived": false,
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-24T13:49:16Z",
+                "last_commit": "2026-08-24T14:49:27Z",
                 "owner": "keycloak",
                 "repo": "keycloak",
                 "stars": 36376
@@ -2009,7 +2009,7 @@
                 "archived": false,
                 "id": 57920736,
                 "language": "Rust",
-                "last_commit": "2026-08-24T12:33:34Z",
+                "last_commit": "2026-08-24T13:59:11Z",
                 "owner": "rustls",
                 "repo": "rustls",
                 "stars": 7583
@@ -2586,7 +2586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:52:22.793Z",
+    "last_updated": "2026-08-24T14:50:11.799Z",
     "original_repository": "sobolevn/awesome-cryptography",
     "original_repository_id": 59573221,
     "original_repository_sha": "c9f2dfce9657af1951e7fcfe5038dfb15950558a",

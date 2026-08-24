@@ -140,9 +140,9 @@ A curated list of cryptography resources and links.
 
 ### Standalone
 
-* [certbot](https://github.com/certbot/certbot) ⭐ 33,210 | 🐛 188 | 🌐 Python | 📅 2026-08-21 - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
+* [certbot](https://github.com/certbot/certbot) ⭐ 33,211 | 🐛 188 | 🌐 Python | 📅 2026-08-21 - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
 * [sops](https://github.com/mozilla/sops) ⭐ 22,906 | 🐛 445 | 🌐 Go | 📅 2026-08-24 - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
-* [cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 15,992 | 🐛 284 | 🌐 Java | 📅 2026-08-24 - Multi-platform transparent client-side encryption of your files in the cloud.
+* [cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 15,994 | 🐛 284 | 🌐 Java | 📅 2026-08-24 - Multi-platform transparent client-side encryption of your files in the cloud.
 * [blackbox](https://github.com/StackExchange/blackbox) ⚠️ Archived - safely store secrets in Git/Mercurial/Subversion.
 * [Nipe](https://github.com/GouveaHeitor/nipe) ⭐ 2,388 | 🐛 15 | 🌐 Perl | 📅 2026-06-27 - Nipe is a script to make Tor Network your default gateway.
 * [ironssh](https://github.com/IronCoreLabs/ironssh) ⚠️ Archived - End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.
@@ -167,8 +167,8 @@ A curated list of cryptography resources and links.
 
 ### C
 
-* [OpenSSL](https://github.com/openssl/openssl) ⭐ 30,673 | 🐛 1,534 | 🌐 C | 📅 2026-08-24 - TLS/SSL and crypto library.
-* [libsodium](https://github.com/jedisct1/libsodium) ⭐ 13,911 | 🐛 1 | 🌐 C | 📅 2026-08-13 - Modern and easy-to-use crypto library.
+* [OpenSSL](https://github.com/openssl/openssl) ⭐ 30,674 | 🐛 1,533 | 🌐 C | 📅 2026-08-24 - TLS/SSL and crypto library.
+* [libsodium](https://github.com/jedisct1/libsodium) ⭐ 13,912 | 🐛 1 | 🌐 C | 📅 2026-08-13 - Modern and easy-to-use crypto library.
 * [xxHash](https://github.com/Cyan4973/xxHash) ⭐ 11,218 | 🐛 42 | 🌐 C | 📅 2026-07-27 - Extremely fast hash algorithm.
 * [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) ⭐ 4,999 | 🐛 33 | 🌐 C | 📅 2024-10-04 - Small portable AES128 in C.
 * [wolfSSL](https://github.com/wolfSSL/wolfssl) ⭐ 2,918 | 🐛 198 | 🌐 C | 📅 2026-08-22 - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
@@ -299,7 +299,7 @@ A curated list of cryptography resources and links.
 
 ### Java
 
-* [Keycloak](https://github.com/keycloak/keycloak) ⭐ 36,376 | 🐛 3,119 | 🌐 Java | 📅 2026-08-24 - Open Source Identity and Access Management For Modern Applications and Services.
+* [Keycloak](https://github.com/keycloak/keycloak) ⭐ 36,376 | 🐛 3,120 | 🌐 Java | 📅 2026-08-24 - Open Source Identity and Access Management For Modern Applications and Services.
 * [pac4j](https://github.com/pac4j/pac4j) ⭐ 2,520 | 🐛 4 | 🌐 Java | 📅 2026-08-24 - Security engine.
 * [Java Themis](https://github.com/cossacklabs/themis/wiki/Java-and-Android-Howto) ⭐ 1,973 | 🐛 31 | 🌐 C | 📅 2026-04-24 - Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 * [scrypt](https://github.com/wg/scrypt) ⚠️ Archived - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
