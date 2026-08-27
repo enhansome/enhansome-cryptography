@@ -32,7 +32,7 @@
                 "last_commit": "2025-03-25T11:22:47Z",
                 "owner": "jonaschn",
                 "repo": "awesome-he",
-                "stars": 1257
+                "stars": 1256
               }
             }
           ],
@@ -60,7 +60,7 @@
                 "last_commit": "2026-08-25T17:52:15Z",
                 "owner": "certbot",
                 "repo": "certbot",
-                "stars": 33216
+                "stars": 33217
               }
             },
             {
@@ -75,7 +75,7 @@
                 "last_commit": "2026-08-26T19:19:37Z",
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 22936
+                "stars": 22941
               }
             },
             {
@@ -87,10 +87,10 @@
                 "archived": false,
                 "id": 16446099,
                 "language": "Java",
-                "last_commit": "2026-08-27T09:12:30Z",
+                "last_commit": "2026-08-27T22:14:31Z",
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 16018
+                "stars": 16023
               }
             },
             {
@@ -204,10 +204,10 @@
                 "archived": false,
                 "id": 7634677,
                 "language": "C",
-                "last_commit": "2026-08-27T09:24:14Z",
+                "last_commit": "2026-08-27T16:50:14Z",
                 "owner": "openssl",
                 "repo": "openssl",
-                "stars": 30700
+                "stars": 30703
               }
             },
             {
@@ -219,10 +219,10 @@
                 "archived": false,
                 "id": 7710647,
                 "language": "C",
-                "last_commit": "2026-08-27T10:42:32Z",
+                "last_commit": "2026-08-27T17:48:01Z",
                 "owner": "jedisct1",
                 "repo": "libsodium",
-                "stars": 13917
+                "stars": 13918
               }
             },
             {
@@ -237,7 +237,7 @@
                 "last_commit": "2026-07-27T13:42:29Z",
                 "owner": "Cyan4973",
                 "repo": "xxHash",
-                "stars": 11221
+                "stars": 11220
               }
             },
             {
@@ -264,7 +264,7 @@
                 "archived": false,
                 "id": 28928522,
                 "language": "C",
-                "last_commit": "2026-08-26T23:03:46Z",
+                "last_commit": "2026-08-27T22:54:05Z",
                 "owner": "wolfSSL",
                 "repo": "wolfssl",
                 "stars": 2920
@@ -424,7 +424,7 @@
                 "last_commit": "2026-08-05T18:42:39Z",
                 "owner": "weidai11",
                 "repo": "cryptopp",
-                "stars": 5497
+                "stars": 5498
               }
             },
             {
@@ -436,7 +436,7 @@
                 "archived": false,
                 "id": 21287076,
                 "language": "C",
-                "last_commit": "2026-08-27T01:23:34Z",
+                "last_commit": "2026-08-27T23:05:42Z",
                 "owner": "aws",
                 "repo": "s2n-tls",
                 "stars": 4756
@@ -647,7 +647,7 @@
                 "last_commit": "2026-08-23T19:15:48Z",
                 "owner": "MHumm",
                 "repo": "DelphiEncryptionCompendium",
-                "stars": 286
+                "stars": 285
               }
             }
           ],
@@ -875,7 +875,7 @@
                 "archived": false,
                 "id": 18895427,
                 "language": "Haskell",
-                "last_commit": "2026-08-27T00:09:15Z",
+                "last_commit": "2026-08-27T20:52:31Z",
                 "owner": "GaloisInc",
                 "repo": "cryptol",
                 "stars": 1219
@@ -987,7 +987,7 @@
                 "archived": false,
                 "id": 2765899,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T22:53:15Z",
+                "last_commit": "2026-08-27T17:45:30Z",
                 "owner": "openpgpjs",
                 "repo": "openpgpjs",
                 "stars": 5969
@@ -1292,10 +1292,10 @@
                     "archived": false,
                     "id": 573750299,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T10:39:47Z",
+                    "last_commit": "2026-08-27T14:20:13Z",
                     "owner": "paulmillr",
                     "repo": "noble-curves",
-                    "stars": 941
+                    "stars": 940
                   }
                 },
                 {
@@ -1307,10 +1307,10 @@
                     "archived": false,
                     "id": 414330605,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T11:25:33Z",
+                    "last_commit": "2026-08-27T12:59:26Z",
                     "owner": "paulmillr",
                     "repo": "noble-hashes",
-                    "stars": 908
+                    "stars": 909
                   }
                 },
                 {
@@ -1322,7 +1322,7 @@
                     "archived": false,
                     "id": 659761312,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T11:25:43Z",
+                    "last_commit": "2026-08-27T13:04:45Z",
                     "owner": "paulmillr",
                     "repo": "noble-ciphers",
                     "stars": 413
@@ -1337,7 +1337,7 @@
                     "archived": false,
                     "id": 764428596,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T10:40:20Z",
+                    "last_commit": "2026-08-27T15:36:48Z",
                     "owner": "paulmillr",
                     "repo": "noble-post-quantum",
                     "stars": 350
@@ -1361,10 +1361,10 @@
                 "archived": false,
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-27T09:47:28Z",
+                "last_commit": "2026-08-27T20:17:20Z",
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36445
+                "stars": 36452
               }
             },
             {
@@ -1376,7 +1376,7 @@
                 "archived": false,
                 "id": 3291848,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:18:47Z",
+                "last_commit": "2026-08-27T22:43:33Z",
                 "owner": "pac4j",
                 "repo": "pac4j",
                 "stars": 2521
@@ -1436,7 +1436,7 @@
                 "archived": false,
                 "id": 494471755,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:16:26Z",
+                "last_commit": "2026-08-27T15:57:44Z",
                 "owner": "tink-crypto",
                 "repo": "tink-java",
                 "stars": 300
@@ -1558,7 +1558,7 @@
                 "last_commit": "2024-01-27T15:55:11Z",
                 "owner": "somesocks",
                 "repo": "lua-lockbox",
-                "stars": 378
+                "stars": 377
               }
             },
             {
@@ -2009,7 +2009,7 @@
                 "archived": false,
                 "id": 57920736,
                 "language": "Rust",
-                "last_commit": "2026-08-26T17:25:12Z",
+                "last_commit": "2026-08-27T17:01:49Z",
                 "owner": "rustls",
                 "repo": "rustls",
                 "stars": 7587
@@ -2027,7 +2027,7 @@
                 "last_commit": "2026-08-20T09:05:36Z",
                 "owner": "BLAKE3-team",
                 "repo": "BLAKE3",
-                "stars": 6398
+                "stars": 6397
               }
             },
             {
@@ -2072,7 +2072,7 @@
                 "last_commit": "2026-08-20T19:10:32Z",
                 "owner": "str4d",
                 "repo": "rage",
-                "stars": 3633
+                "stars": 3634
               }
             },
             {
@@ -2174,7 +2174,7 @@
                 "archived": false,
                 "id": 100466775,
                 "language": "Rust",
-                "last_commit": "2026-08-26T18:54:37Z",
+                "last_commit": "2026-08-27T16:53:59Z",
                 "owner": "RustCrypto",
                 "repo": "password-hashes",
                 "stars": 902
@@ -2204,7 +2204,7 @@
                 "archived": false,
                 "id": 120498667,
                 "language": "Rust",
-                "last_commit": "2026-08-25T04:22:27Z",
+                "last_commit": "2026-08-27T20:43:24Z",
                 "owner": "orion-rs",
                 "repo": "orion",
                 "stars": 722
@@ -2586,7 +2586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:32:06.790Z",
+    "last_updated": "2026-08-27T23:14:41.263Z",
     "original_repository_info": {
       "archived": false,
       "id": 59573221,
@@ -2594,7 +2594,7 @@
       "last_commit": "2026-07-15T08:39:47Z",
       "owner": "sobolevn",
       "repo": "awesome-cryptography",
-      "stars": 7092
+      "stars": 7091
     },
     "original_repository_sha": "c9f2dfce9657af1951e7fcfe5038dfb15950558a",
     "enhanced_repository": "enhansome/enhansome-cryptography",
