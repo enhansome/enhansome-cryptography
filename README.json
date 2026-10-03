@@ -91,7 +91,7 @@
                 "open_issues": 180,
                 "owner": "certbot",
                 "repo": "certbot",
-                "stars": 33258,
+                "stars": 33257,
                 "topics": [
                   "acme",
                   "acme-client",
@@ -119,7 +119,7 @@
                 "open_issues": 450,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23276,
+                "stars": 23280,
                 "topics": [
                   "aws",
                   "azure",
@@ -147,10 +147,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-01T04:09:00Z",
-                "open_issues": 281,
+                "open_issues": 282,
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 16234,
+                "stars": 16241,
                 "topics": [
                   "cloud-storage",
                   "crypto",
@@ -299,7 +299,7 @@
                     "open_issues": 128,
                     "owner": "AGWA",
                     "repo": "git-crypt",
-                    "stars": 9942,
+                    "stars": 9943,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:48.429Z"
@@ -335,7 +335,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T10:31:16Z",
-                "open_issues": 1530,
+                "open_issues": 1531,
                 "owner": "openssl",
                 "repo": "openssl",
                 "stars": 30880,
@@ -366,7 +366,7 @@
                 "open_issues": 1,
                 "owner": "jedisct1",
                 "repo": "libsodium",
-                "stars": 13972,
+                "stars": 13971,
                 "topics": [
                   "c",
                   "crypto",
@@ -421,7 +421,7 @@
                 "open_issues": 35,
                 "owner": "kokke",
                 "repo": "tiny-AES-c",
-                "stars": 5013,
+                "stars": 5012,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:48.429Z"
@@ -438,11 +438,11 @@
                 "id": 28928522,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T03:04:40Z",
-                "open_issues": 240,
+                "last_commit": "2026-10-03T06:12:54Z",
+                "open_issues": 241,
                 "owner": "wolfSSL",
                 "repo": "wolfssl",
-                "stars": 2956,
+                "stars": 2958,
                 "topics": [
                   "c-library",
                   "cipher-suites",
@@ -505,7 +505,7 @@
                 "open_issues": 31,
                 "owner": "cossacklabs",
                 "repo": "themis",
-                "stars": 1976,
+                "stars": 1977,
                 "topics": [
                   "asymmetric-cryptography",
                   "authentication",
@@ -544,7 +544,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T12:18:01Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "libtom",
                 "repo": "libtomcrypt",
                 "stars": 1791,
@@ -570,7 +570,7 @@
                 "language": "C",
                 "license": "0BSD",
                 "last_commit": "2026-04-11T08:00:28Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "rhash",
                 "repo": "RHash",
                 "stars": 732,
@@ -1387,7 +1387,7 @@
                 "open_issues": 31,
                 "owner": "cossacklabs",
                 "repo": "themis",
-                "stars": 1976,
+                "stars": 1977,
                 "topics": [
                   "asymmetric-cryptography",
                   "authentication",
@@ -1499,8 +1499,8 @@
                 "id": 18895427,
                 "language": "Haskell",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-03T02:45:18Z",
-                "open_issues": 259,
+                "last_commit": "2026-10-03T13:05:34Z",
+                "open_issues": 258,
                 "owner": "GaloisInc",
                 "repo": "cryptol",
                 "stars": 1222,
@@ -1638,7 +1638,7 @@
                 "open_issues": 146,
                 "owner": "travist",
                 "repo": "jsencrypt",
-                "stars": 6805,
+                "stars": 6804,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:48.429Z"
@@ -1788,7 +1788,7 @@
                 "open_issues": 31,
                 "owner": "cossacklabs",
                 "repo": "themis",
-                "stars": 1976,
+                "stars": 1977,
                 "topics": [
                   "asymmetric-cryptography",
                   "authentication",
@@ -2385,11 +2385,11 @@
                 "id": 11125589,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T03:35:46Z",
-                "open_issues": 3200,
+                "last_commit": "2026-10-03T13:23:59Z",
+                "open_issues": 3213,
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 37104,
+                "stars": 37109,
                 "topics": [
                   "keycloak",
                   "oidc",
@@ -2456,7 +2456,7 @@
                 "open_issues": 31,
                 "owner": "cossacklabs",
                 "repo": "themis",
-                "stars": 1976,
+                "stars": 1977,
                 "topics": [
                   "asymmetric-cryptography",
                   "authentication",
@@ -2743,7 +2743,7 @@
                 "open_issues": 9,
                 "owner": "somesocks",
                 "repo": "lua-lockbox",
-                "stars": 377,
+                "stars": 378,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:48.429Z"
@@ -2815,7 +2815,7 @@
                 "language": "OCaml",
                 "license": "MIT",
                 "last_commit": "2026-09-25T14:57:17Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "mirage",
                 "repo": "digestif",
                 "stars": 96,
@@ -2878,7 +2878,7 @@
                 "open_issues": 31,
                 "owner": "cossacklabs",
                 "repo": "themis",
-                "stars": 1976,
+                "stars": 1977,
                 "topics": [
                   "asymmetric-cryptography",
                   "authentication",
@@ -2980,7 +2980,7 @@
                 "open_issues": 11,
                 "owner": "defuse",
                 "repo": "php-encryption",
-                "stars": 3879,
+                "stars": 3878,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:48.429Z"
@@ -3001,7 +3001,7 @@
                 "open_issues": 31,
                 "owner": "cossacklabs",
                 "repo": "themis",
-                "stars": 1976,
+                "stars": 1977,
                 "topics": [
                   "asymmetric-cryptography",
                   "authentication",
@@ -3088,8 +3088,8 @@
                 "id": 19378935,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-18T07:43:51Z",
-                "open_issues": 99,
+                "last_commit": "2026-10-03T15:29:38Z",
+                "open_issues": 97,
                 "owner": "Legrandin",
                 "repo": "pycryptodome",
                 "stars": 3267,
@@ -3117,7 +3117,7 @@
                 "open_issues": 31,
                 "owner": "cossacklabs",
                 "repo": "themis",
-                "stars": 1976,
+                "stars": 1977,
                 "topics": [
                   "asymmetric-cryptography",
                   "authentication",
@@ -3442,7 +3442,7 @@
                 "open_issues": 31,
                 "owner": "cossacklabs",
                 "repo": "themis",
-                "stars": 1976,
+                "stars": 1977,
                 "topics": [
                   "asymmetric-cryptography",
                   "authentication",
@@ -3517,11 +3517,11 @@
                 "id": 57920736,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T21:15:04Z",
-                "open_issues": 99,
+                "last_commit": "2026-10-03T14:40:43Z",
+                "open_issues": 98,
                 "owner": "rustls",
                 "repo": "rustls",
-                "stars": 7649,
+                "stars": 7654,
                 "topics": [
                   "cryptography",
                   "rust",
@@ -3547,7 +3547,7 @@
                 "open_issues": 204,
                 "owner": "BLAKE3-team",
                 "repo": "BLAKE3",
-                "stars": 6454,
+                "stars": 6455,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:48.429Z"
@@ -3568,7 +3568,7 @@
                 "open_issues": 93,
                 "owner": "build-trust",
                 "repo": "ockam",
-                "stars": 4634,
+                "stars": 4635,
                 "topics": [
                   "authentication",
                   "authorization",
@@ -3608,7 +3608,7 @@
                 "open_issues": 53,
                 "owner": "briansmith",
                 "repo": "ring",
-                "stars": 4110,
+                "stars": 4111,
                 "topics": [
                   "cryptography",
                   "rust",
@@ -3633,7 +3633,7 @@
                 "open_issues": 69,
                 "owner": "str4d",
                 "repo": "rage",
-                "stars": 3674,
+                "stars": 3675,
                 "topics": [
                   "age-encryption",
                   "cli",
@@ -3666,7 +3666,7 @@
                 "open_issues": 36,
                 "owner": "RustCrypto",
                 "repo": "hashes",
-                "stars": 2270,
+                "stars": 2271,
                 "topics": [
                   "blake2",
                   "cryptographic-hash-functions",
@@ -3707,7 +3707,7 @@
                 "open_issues": 363,
                 "owner": "rust-openssl",
                 "repo": "rust-openssl",
-                "stars": 1646,
+                "stars": 1647,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:48.429Z"
@@ -3824,7 +3824,7 @@
                 "open_issues": 15,
                 "owner": "RustCrypto",
                 "repo": "password-hashes",
-                "stars": 911,
+                "stars": 912,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:48.429Z"
@@ -3872,7 +3872,7 @@
                 "open_issues": 9,
                 "owner": "orion-rs",
                 "repo": "orion",
-                "stars": 723,
+                "stars": 724,
                 "topics": [
                   "aead",
                   "argon2",
@@ -3968,7 +3968,7 @@
                 "open_issues": 108,
                 "owner": "briansmith",
                 "repo": "webpki",
-                "stars": 483,
+                "stars": 484,
                 "topics": [
                   "certificate",
                   "pkix",
@@ -4070,7 +4070,7 @@
                 "language": "Rust",
                 "license": null,
                 "last_commit": "2026-10-02T20:24:39Z",
-                "open_issues": 77,
+                "open_issues": 79,
                 "owner": "RustCrypto",
                 "repo": "formats",
                 "stars": 339,
@@ -4144,7 +4144,7 @@
                 "open_issues": 10,
                 "owner": "libOctavo",
                 "repo": "octavo",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "crypto",
                   "crypto-library",
@@ -4171,7 +4171,7 @@
                 "open_issues": 2,
                 "owner": "klutzy",
                 "repo": "suruga",
-                "stars": 126,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:48.429Z"
@@ -4394,7 +4394,7 @@
                 "open_issues": 31,
                 "owner": "cossacklabs",
                 "repo": "themis",
-                "stars": 1976,
+                "stars": 1977,
                 "topics": [
                   "asymmetric-cryptography",
                   "authentication",
@@ -4518,7 +4518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:48:37.456Z",
+    "last_updated": "2026-10-03T17:39:51.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of cryptography resources and links.",
@@ -4530,7 +4530,7 @@
       "open_issues": 75,
       "owner": "sobolevn",
       "repo": "awesome-cryptography",
-      "stars": 7137,
+      "stars": 7138,
       "topics": [
         "awesome",
         "awesome-list",
