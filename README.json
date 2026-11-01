@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "pFarb",
                 "repo": "awesome-crypto-papers",
-                "stars": 2106,
+                "stars": 2107,
                 "topics": [
                   "applied-cryptography",
                   "awesome",
@@ -91,7 +91,7 @@
                 "open_issues": 188,
                 "owner": "certbot",
                 "repo": "certbot",
-                "stars": 33305,
+                "stars": 33306,
                 "topics": [
                   "acme",
                   "acme-client",
@@ -116,10 +116,10 @@
                 "language": "Go",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-27T17:22:34Z",
-                "open_issues": 466,
+                "open_issues": 467,
                 "owner": "getsops",
                 "repo": "sops",
-                "stars": 23575,
+                "stars": 23580,
                 "topics": [
                   "aws",
                   "azure",
@@ -146,11 +146,11 @@
                 "id": 16446099,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T20:54:01Z",
-                "open_issues": 261,
+                "last_commit": "2026-11-01T16:24:26Z",
+                "open_issues": 264,
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 16397,
+                "stars": 16411,
                 "topics": [
                   "cloud-storage",
                   "crypto",
@@ -180,7 +180,7 @@
                 "open_issues": 55,
                 "owner": "StackExchange",
                 "repo": "blackbox",
-                "stars": 6762,
+                "stars": 6761,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:48.429Z"
@@ -299,7 +299,7 @@
                     "open_issues": 128,
                     "owner": "AGWA",
                     "repo": "git-crypt",
-                    "stars": 9977,
+                    "stars": 9979,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:48.429Z"
@@ -334,11 +334,11 @@
                 "id": 7634677,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T08:57:16Z",
-                "open_issues": 1624,
+                "last_commit": "2026-11-01T16:26:21Z",
+                "open_issues": 1622,
                 "owner": "openssl",
                 "repo": "openssl",
-                "stars": 31139,
+                "stars": 31149,
                 "topics": [
                   "cryptography",
                   "decryption",
@@ -362,11 +362,11 @@
                 "id": 7710647,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T16:55:52Z",
+                "last_commit": "2026-10-31T18:35:30Z",
                 "open_issues": 0,
                 "owner": "jedisct1",
                 "repo": "libsodium",
-                "stars": 14032,
+                "stars": 14037,
                 "topics": [
                   "c",
                   "crypto",
@@ -392,7 +392,7 @@
                 "open_issues": 6,
                 "owner": "Cyan4973",
                 "repo": "xxHash",
-                "stars": 11400,
+                "stars": 11399,
                 "topics": [
                   "c",
                   "dispersion",
@@ -439,7 +439,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-30T23:29:14Z",
-                "open_issues": 229,
+                "open_issues": 230,
                 "owner": "wolfSSL",
                 "repo": "wolfssl",
                 "stars": 2984,
@@ -547,7 +547,7 @@
                 "open_issues": 59,
                 "owner": "libtom",
                 "repo": "libtomcrypt",
-                "stars": 1798,
+                "stars": 1799,
                 "topics": [
                   "c",
                   "cryptography",
@@ -570,7 +570,7 @@
                 "language": "C",
                 "license": "0BSD",
                 "last_commit": "2026-10-28T11:24:00Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "rhash",
                 "repo": "RHash",
                 "stars": 734,
@@ -769,7 +769,7 @@
                 "open_issues": 309,
                 "owner": "aws",
                 "repo": "s2n-tls",
-                "stars": 4785,
+                "stars": 4786,
                 "topics": [
                   "c",
                   "c99",
@@ -855,7 +855,7 @@
                 "id": 38902483,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-06-05T18:31:51Z",
+                "last_commit": "2026-10-31T20:16:21Z",
                 "open_issues": 6,
                 "owner": "sdrapkin",
                 "repo": "SecurityDriven.Inferno",
@@ -1499,11 +1499,11 @@
                 "id": 18895427,
                 "language": "Haskell",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-28T11:39:16Z",
-                "open_issues": 255,
+                "last_commit": "2026-11-01T09:25:45Z",
+                "open_issues": 256,
                 "owner": "GaloisInc",
                 "repo": "cryptol",
-                "stars": 1225,
+                "stars": 1226,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:48.429Z"
@@ -1594,7 +1594,7 @@
                 "open_issues": 38,
                 "owner": "kelektiv",
                 "repo": "node.bcrypt.js",
-                "stars": 7806,
+                "stars": 7805,
                 "topics": [
                   "bcrypt"
                 ]
@@ -2216,7 +2216,7 @@
                     "open_issues": 3,
                     "owner": "paulmillr",
                     "repo": "noble-curves",
-                    "stars": 968,
+                    "stars": 969,
                     "topics": [
                       "bitcoin",
                       "bls12-381",
@@ -2338,7 +2338,7 @@
                     "open_issues": 6,
                     "owner": "paulmillr",
                     "repo": "noble-post-quantum",
-                    "stars": 367,
+                    "stars": 368,
                     "topics": [
                       "dilithium",
                       "falcon",
@@ -2385,11 +2385,11 @@
                 "id": 11125589,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T03:52:46Z",
-                "open_issues": 3391,
+                "last_commit": "2026-11-01T03:13:35Z",
+                "open_issues": 3397,
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 37619,
+                "stars": 37630,
                 "topics": [
                   "keycloak",
                   "oidc",
@@ -2410,11 +2410,11 @@
                 "id": 3291848,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T13:52:22Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-31T21:45:02Z",
+                "open_issues": 2,
                 "owner": "pac4j",
                 "repo": "pac4j",
-                "stars": 2538,
+                "stars": 2539,
                 "topics": [
                   "authentication",
                   "authorization",
@@ -2690,8 +2690,8 @@
                 "id": 41854188,
                 "language": "Julia",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T04:56:19Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-01T12:17:19Z",
+                "open_issues": 9,
                 "owner": "JuliaLang",
                 "repo": "MbedTLS.jl",
                 "stars": 43,
@@ -2857,7 +2857,7 @@
                 "open_issues": 9,
                 "owner": "RNCryptor",
                 "repo": "RNCryptor",
-                "stars": 3351,
+                "stars": 3352,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:48.429Z"
@@ -2980,7 +2980,7 @@
                 "open_issues": 11,
                 "owner": "defuse",
                 "repo": "php-encryption",
-                "stars": 3876,
+                "stars": 3875,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:48.429Z"
@@ -3088,11 +3088,11 @@
                 "id": 19378935,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T16:41:49Z",
-                "open_issues": 57,
+                "last_commit": "2026-11-01T14:19:36Z",
+                "open_issues": 58,
                 "owner": "Legrandin",
                 "repo": "pycryptodome",
-                "stars": 3283,
+                "stars": 3284,
                 "topics": [
                   "cryptography",
                   "python",
@@ -3517,11 +3517,11 @@
                 "id": 57920736,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T09:58:13Z",
+                "last_commit": "2026-10-31T20:04:19Z",
                 "open_issues": 84,
                 "owner": "rustls",
                 "repo": "rustls",
-                "stars": 7723,
+                "stars": 7725,
                 "topics": [
                   "cryptography",
                   "rust",
@@ -3547,7 +3547,7 @@
                 "open_issues": 211,
                 "owner": "BLAKE3-team",
                 "repo": "BLAKE3",
-                "stars": 6502,
+                "stars": 6503,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:48.429Z"
@@ -3605,7 +3605,7 @@
                 "language": "Assembly",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-23T18:48:09Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "briansmith",
                 "repo": "ring",
                 "stars": 4111,
@@ -3666,7 +3666,7 @@
                 "open_issues": 38,
                 "owner": "RustCrypto",
                 "repo": "hashes",
-                "stars": 2281,
+                "stars": 2286,
                 "topics": [
                   "blake2",
                   "cryptographic-hash-functions",
@@ -3707,7 +3707,7 @@
                 "open_issues": 365,
                 "owner": "rust-openssl",
                 "repo": "rust-openssl",
-                "stars": 1648,
+                "stars": 1649,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:48.429Z"
@@ -3803,7 +3803,7 @@
                 "open_issues": 37,
                 "owner": "RustCrypto",
                 "repo": "AEADs",
-                "stars": 969,
+                "stars": 971,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:48.429Z"
@@ -3845,7 +3845,7 @@
                 "open_issues": 87,
                 "owner": "RustCrypto",
                 "repo": "elliptic-curves",
-                "stars": 880,
+                "stars": 881,
                 "topics": [
                   "ecdsa",
                   "nist",
@@ -3909,11 +3909,11 @@
                 "id": 155469874,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-29T18:03:15Z",
-                "open_issues": 40,
+                "last_commit": "2026-10-31T22:51:37Z",
+                "open_issues": 34,
                 "owner": "RustCrypto",
                 "repo": "signatures",
-                "stars": 668,
+                "stars": 669,
                 "topics": [
                   "dsa",
                   "ecdsa",
@@ -4070,10 +4070,10 @@
                 "language": "Rust",
                 "license": null,
                 "last_commit": "2026-10-29T17:56:40Z",
-                "open_issues": 72,
+                "open_issues": 73,
                 "owner": "RustCrypto",
                 "repo": "formats",
-                "stars": 344,
+                "stars": 345,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:48.429Z"
@@ -4518,7 +4518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:58:39.059Z",
+    "last_updated": "2026-11-01T18:37:13.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of cryptography resources and links.",
@@ -4530,7 +4530,7 @@
       "open_issues": 83,
       "owner": "sobolevn",
       "repo": "awesome-cryptography",
-      "stars": 7186,
+      "stars": 7188,
       "topics": [
         "awesome",
         "awesome-list",
